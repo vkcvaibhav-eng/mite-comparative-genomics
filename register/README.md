@@ -17,7 +17,7 @@ the result is known. Rows are never deleted.
 | Parameters / model | Exact options, or the script name and commit |
 | Raw result | Before correction |
 | Corrected p / FDR | After correction, with the number of tests |
-| Status | Planned, Exploratory, Negative, Inconclusive, Validated, Rejected |
+| Status | Planned, Exploratory, Negative, Inconclusive, Validated, Rejected, Audit |
 | Validation done | Which Phase 4 checks have been applied |
 | Decision | Follow up, hold, drop |
 | Notes / file location | Bucket path of the output |
@@ -30,9 +30,10 @@ the result is known. Rows are never deleted.
 - **Inconclusive**: the analysis could not answer the question (sampling, data quality, failed model).
 - **Validated**: passed every Phase 4 check listed in the protocol.
 - **Rejected**: an exploratory pattern that failed validation.
+- **Audit**: a data-collection or quality step that tests no biological question.
 
 ## genome_audit.tsv
 
-One row per candidate assembly, filled during Phase 1. Assembly values are taken from
+One row per batch 1 assembly, written by `scripts/01_genome_audit/06_fill_audit_table.py`. Assembly values are taken from
 NCBI, BUSCO values from our own runs with arachnida_odb10, and feeding type from
 McMurtry et al. (2013) for Phytoseiidae.

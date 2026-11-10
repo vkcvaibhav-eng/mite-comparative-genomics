@@ -1,1 +1,2 @@
 Phase	Tool	Version	Database / lineage version	Install source	Date recorded
+1	BUSCO	6.1.0	arachnida_odb10, 2024-01-08	bioconda (envs/audit.yml)	2026-11-10

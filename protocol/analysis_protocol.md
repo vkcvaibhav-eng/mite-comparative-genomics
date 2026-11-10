@@ -44,8 +44,10 @@ checked in protein mode only.
 | Excluded | BUSCO complete < 60 %, or evident contamination |
 | Synteny | Chromosome-level assemblies only |
 
-An assembly with duplicated BUSCO above 10 % is checked for uncollapsed haplotypes
-before a decision is taken.
+Duplication in protein mode is measured on the one-protein-per-gene set (Section 4),
+because NCBI protein files hold every isoform of a gene. An assembly with duplicated
+BUSCO of 10 % or more in genome mode is checked for uncollapsed haplotypes before a
+decision is taken.
 
 Feeding type: phytophagous families are scored as phytophagous. Phytoseiidae are
 classified as Type I (specialist), Type II (selective), Type III (generalist) or
