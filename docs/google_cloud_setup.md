@@ -95,3 +95,18 @@ The machine type can be changed while the VM is stopped:
 gcloud compute instances set-machine-type mite-genomics-vm \
     --zone=asia-south1-c --machine-type=e2-standard-16
 ```
+
+## 7. Annotation pilot
+
+```bash
+cd ~/mite-comparative-genomics && git pull
+bash scripts/00_setup/install_annotation_tools.sh
+conda activate mite-audit
+tmux new -s annot
+conda activate mite-audit
+bash scripts/02_foundation/run_annotation.sh scripts/02_foundation/pilot_accessions.txt gs://BUCKET_NAME 8 shutdown
+```
+
+With `shutdown` as the last word, the VM powers itself off when the run ends, so it
+stops costing money. The report is written to
+`results_summaries/annotation/annotation_report.tsv` and copied to the bucket.

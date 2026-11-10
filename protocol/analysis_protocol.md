@@ -1,6 +1,6 @@
 # Analysis protocol
 
-**Status:** Draft 0.1, 2026-11-10. Not frozen.
+**Status:** Draft 0.2, 2026-11-10. Not frozen.
 **Freeze rule:** Sections 1 to 3 are frozen before the first BUSCO run. Sections 4 to 7
 are frozen before OrthoFinder is run on the final species list. After a section is
 frozen, changes go in `deviations.md` with a date and a reason.
@@ -49,6 +49,19 @@ because NCBI protein files hold every isoform of a gene. An assembly with duplic
 BUSCO of 10 % or more in genome mode is checked for uncollapsed haplotypes before a
 decision is taken.
 
+**Reduced genomes.** A low BUSCO score is taken as lineage gene loss, not as a poor
+assembly, when all three of these hold: at least three assemblies of the lineage from
+independent submitters score within 15 percentage points of each other; fragmented
+BUSCO is below 2 % in each; and at least one of them is chromosome-level or complete.
+Such a lineage is kept in all analyses whatever its score. Its species are marked as
+reduced, gene-family contractions on its branches are reported separately from the
+rest, and every positive result is re-tested without it. A lineage with a low score
+that does not meet the three conditions follows the table above.
+
+**Possible uncollapsed haplotypes.** An assembly with 10 % or more duplicated BUSCO
+in genome mode is kept and marked. Every positive result is re-tested without the
+marked assemblies.
+
 Feeding type: phytophagous families are scored as phytophagous. Phytoseiidae are
 classified as Type I (specialist), Type II (selective), Type III (generalist) or
 Type IV (pollen-feeding generalist) following McMurtry et al. (2013). Other
@@ -60,6 +73,28 @@ independent transitions of the type being tested. With fewer, those modules are
 recorded as not testable and the reason is logged.
 
 ## 4. Foundation
+
+**Gene annotation.** Every assembly is annotated with the same pipeline, so that
+differences between annotation methods are not mistaken for biological differences:
+de novo repeat library with RepeatModeler (with LTR structural search), soft-masking
+with RepeatMasker, then BRAKER in protein-evidence mode (ProtHint, GeneMark-EP+,
+AUGUSTUS) with the OrthoDB v12 Arthropoda protein set. The annotations at NCBI are used
+only to check the pipeline. The exception is the tick outgroup *Ixodes scapularis*
+(2.2 Gb), which is not re-annotated; its RefSeq proteome is used and it serves only as
+an outgroup.
+
+The pipeline is first run on three species that have an independent annotation:
+*Tetranychus urticae*, *Galendromus occidentalis* and *Tetranychus evansi*. It is
+accepted if, in each of them, BUSCO completeness of the predicted proteome (protein
+mode, one protein per gene) is no more than 5 percentage points below the genome-mode
+score of the same assembly, and the number of predicted genes is between 0.7 and 1.5
+times the number in the independent annotation. If it fails, the pipeline is changed
+and the pilot repeated before any other species is annotated; the failed attempt is
+logged in the register. For the remaining species the first condition is applied
+alone, and a species that fails it is kept for the species tree and repeat analysis
+only. Proteins of the first two pilot species are probably present in the OrthoDB
+evidence set, so their result is an upper bound; *Tetranychus evansi* was annotated
+after that release and is the more realistic test.
 
 **Proteome preparation.** One protein per gene, the longest isoform. Sequences shorter
 than 50 amino acids or with internal stop codons are removed. The number removed per
@@ -153,6 +188,8 @@ export at the start of each phase and are not changed within a phase.
 | Genome listing and download | NCBI Datasets command-line tools |
 | Completeness | BUSCO, arachnida_odb10 |
 | Sequence handling | SeqKit, AGAT |
+| Repeat library and masking | RepeatModeler, RepeatMasker (dfam/tetools container) |
+| Gene prediction | BRAKER, protein-evidence mode (teambraker/braker3 container), OrthoDB v12 Arthropoda proteins |
 | Orthology | OrthoFinder, DIAMOND |
 | Alignment and trimming | MAFFT, trimAl |
 | Phylogeny | IQ-TREE, ASTRAL |
