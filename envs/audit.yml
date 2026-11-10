@@ -1,0 +1,11 @@
+name: mite-audit
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - ncbi-datasets-cli
+  - busco
+  - seqkit
+  - agat
+  - pandas

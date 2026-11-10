@@ -1,0 +1,77 @@
+# Sequence, annotation and alignment files stay in Cloud Storage
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+*.fna
+*.fna.gz
+*.faa
+*.faa.gz
+*.ffn
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.gff
+*.gff3
+*.gff.gz
+*.gff3.gz
+*.gtf
+*.gbk
+*.gbff
+*.bam
+*.sam
+*.cram
+*.bai
+*.vcf
+*.vcf.gz
+*.aln
+*.phy
+*.phylip
+*.nex
+*.dmnd
+*.2bit
+
+# Archives and downloads
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+ncbi_dataset/
+
+# Working directories on the VM
+data/
+raw/
+work/
+tmp/
+scratch/
+busco_downloads/
+busco_out/
+OrthoFinder/
+Results_*/
+*.log
+nohup.out
+
+# Tree-building intermediates (final trees are copied to results_summaries/)
+*.ckp.gz
+*.bionj
+*.mldist
+*.uniqueseq.phy
+*.splits.nex
+
+# Python, R, editors, system
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.json.key
+*service-account*.json
+.env
