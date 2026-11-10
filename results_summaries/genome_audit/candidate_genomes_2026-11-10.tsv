@@ -11,11 +11,11 @@ Stratiolaelaps miles	Laelapidae	Mesostigmata	Predator, soil generalist	focal	GCA
 Stratiolaelaps scimitus	Laelapidae	Mesostigmata	Predator, soil generalist	focal	GCA_019614645.1	Contig	426.5	7661.9	No		1	batch 1
 Tropilaelaps mercedesae	Laelapidae	Mesostigmata	Parasite of honey bees	focal	GCA_002081605.1	Scaffold	352.5	28.9	Yes	14303	1	batch 1
 Pergamasus crassipes	Parasitidae	Mesostigmata	Predator, soil	focal	GCA_034693645.1	Contig	450.5	1.5	No		1	too fragmented
-Galendromus occidentalis	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal	GCF_000255335.2	Scaffold	151.5	896.8	Yes	11208	2	batch 1
-Neoseiulus californicus	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal	GCA_028455905.1	Contig	188.4	16958.6	No		3	batch 1
-Neoseiulus cucumeris	Phytoseiidae	Mesostigmata	Predator, Type III generalist	focal	GCA_021527715.1	Scaffold	173.1	1572.8	No		1	batch 1
-Neoseiulus longispinosus	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal	GCA_052756005.1	Chromosome	199.2	54559.8	No		1	batch 1
-Phytoseiulus persimilis	Phytoseiidae	Mesostigmata	Predator, Type I specialist	focal	GCA_047456425.1	Chromosome	214.2	57945.2	No		2	batch 1
+Galendromus occidentalis	Phytoseiidae	Mesostigmata	Predator, Type II (selective, tetranychids)	focal	GCF_000255335.2	Scaffold	151.5	896.8	Yes	11208	2	batch 1
+Neoseiulus californicus	Phytoseiidae	Mesostigmata	Predator, Type II (selective, tetranychids)	focal	GCA_028455905.1	Contig	188.4	16958.6	No		3	batch 1
+Neoseiulus cucumeris	Phytoseiidae	Mesostigmata	Predator, Type III-e (generalist, soil and litter)	focal	GCA_021527715.1	Scaffold	173.1	1572.8	No		1	batch 1
+Neoseiulus longispinosus	Phytoseiidae	Mesostigmata	Predator, Type II (selective, tetranychids)	focal	GCA_052756005.1	Chromosome	199.2	54559.8	No		1	batch 1
+Phytoseiulus persimilis	Phytoseiidae	Mesostigmata	Predator, Type I-a (specialist on Tetranychus)	focal	GCA_047456425.1	Chromosome	214.2	57945.2	No		2	batch 1
 Varroa destructor	Varroidae	Mesostigmata	Parasite of honey bees	focal	GCF_002443255.2	Scaffold	368.8	58536.7	Yes	10783	3	batch 1
 Varroa jacobsoni	Varroidae	Mesostigmata	Parasite of honey bees	focal	GCF_002532875.2	Scaffold	364.3	234.1	Yes	10683	2	batch 1
 Zercon vagabundus	Zerconidae	Mesostigmata	Predator, soil	focal	GCA_034693825.1	Scaffold	468.4	1.2	No		1	too fragmented

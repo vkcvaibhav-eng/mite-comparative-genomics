@@ -60,7 +60,10 @@ def main():
             notes.append("Genome duplication 10 % or more: check for uncollapsed haplotypes")
         if gc is not None and gc < 80 and float(g["fragmented_pct"]) < 2:
             notes.append("Low completeness with few fragmented genes: possible lineage gene loss, decision pending")
-        notes.append("Feeding type to be checked against the literature")
+        if c["Family"] == "Phytoseiidae":
+            notes.append("Feeding type checked against McMurtry et al. (2013)")
+        else:
+            notes.append("Feeding type to be checked against the literature")
         rows.append([
             c["Species"], c["Family"], c["Order / group"], c["Feeding type"], c["Accession"],
             c["Assembly level"], c["Genome size (Mb)"], c["Scaffold N50 (kb)"],

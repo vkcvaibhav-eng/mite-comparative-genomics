@@ -18,11 +18,11 @@ Dinothrombium	Trombidiidae	Trombidiformes: Parasitengona	Predator (adult), paras
 Leptotrombidium	Trombiculidae	Trombidiformes: Parasitengona	Parasite (larva)	other
 Osperalycus	Nematalycidae	Endeostigmata	Soil dwelling, feeding uncertain	outgroup
 Speleorchestes	Nanorchestidae	Endeostigmata	Soil dwelling	other
-Phytoseiulus persimilis	Phytoseiidae	Mesostigmata	Predator, Type I specialist	focal
-Galendromus occidentalis	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal
-Neoseiulus californicus	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal
-Neoseiulus longispinosus	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal
-Neoseiulus cucumeris	Phytoseiidae	Mesostigmata	Predator, Type III generalist	focal
+Phytoseiulus persimilis	Phytoseiidae	Mesostigmata	Predator, Type I-a (specialist on Tetranychus)	focal
+Galendromus occidentalis	Phytoseiidae	Mesostigmata	Predator, Type II (selective, tetranychids)	focal
+Neoseiulus californicus	Phytoseiidae	Mesostigmata	Predator, Type II (selective, tetranychids)	focal
+Neoseiulus longispinosus	Phytoseiidae	Mesostigmata	Predator, Type II (selective, tetranychids)	focal
+Neoseiulus cucumeris	Phytoseiidae	Mesostigmata	Predator, Type III-e (generalist, soil and litter)	focal
 Stratiolaelaps	Laelapidae	Mesostigmata	Predator, soil generalist	focal
 Pergamasus	Parasitidae	Mesostigmata	Predator, soil	focal
 Epicrius	Epicriidae	Mesostigmata	Predator, soil	focal
