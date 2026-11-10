@@ -5,7 +5,7 @@
 #   accessions.txt : one assembly accession per line (GCA_... or GCF_...)
 set -euo pipefail
 
-ACCESSIONS="${1:?Give the accession list file}"
+ACCESSIONS="$(realpath "${1:?Give the accession list file}")"
 BUCKET="${2:?Give the bucket, e.g. gs://my-bucket}"
 DATA_DIR="${DATA_DIR:-${HOME}/data/genomes}"
 
