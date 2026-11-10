@@ -1,0 +1,165 @@
+Species	Family	Order / group	Feeding type	Tier	Accession	Assembly level	Genome size (Mb)	Scaffold N50 (kb)	NCBI annotation	Protein-coding genes	Assemblies at NCBI	Decision
+Aculops lycopersici	Eriophyidae	Eriophyoidea	Phytophagous	focal	GCA_015350385.1	Scaffold	32.5	10499.5	No		1	batch 1
+Aculus huzhongsalixus	Eriophyidae	Eriophyoidea	Phytophagous	focal	GCA_051403075.1	Scaffold	33.2	5.9	No		1	too fragmented
+Eriophyidae sp.	Eriophyidae	Eriophyoidea	Phytophagous	focal	GCA_045522265.1	Complete Genome	34.3	17366.4	No		1	batch 1
+Floracarus perrepae	Eriophyidae	Eriophyoidea	Phytophagous	focal	GCA_062075706.1	Contig	23.1	10182.8	No		1	batch 1
+Fragariocoptes setiger	Phytoptidae	Eriophyoidea	Phytophagous	focal	GCA_019968535.1	Contig	40.9	31.6	Yes	3058	1	batch 1
+Setoptus koraiensis	Phytoptidae	Eriophyoidea	Phytophagous	focal	GCA_048013815.1	Chromosome	48.8	24533.3	No		1	batch 1
+Dermanyssus gallinae	Dermanyssidae	Mesostigmata	Parasite of birds	focal	GCA_003439945.1	Contig	959.0	278.6	No		2	batch 1
+Epicrius mollis	Epicriidae	Mesostigmata	Predator, soil	focal	GCA_034693625.1	Contig	214.0	0.6	No		1	too fragmented
+Stratiolaelaps miles	Laelapidae	Mesostigmata	Predator, soil generalist	focal	GCA_034693525.1	Contig	415.5	13.1	No		1	too fragmented
+Stratiolaelaps scimitus	Laelapidae	Mesostigmata	Predator, soil generalist	focal	GCA_019614645.1	Contig	426.5	7661.9	No		1	batch 1
+Tropilaelaps mercedesae	Laelapidae	Mesostigmata	Parasite of honey bees	focal	GCA_002081605.1	Scaffold	352.5	28.9	Yes	14303	1	batch 1
+Pergamasus crassipes	Parasitidae	Mesostigmata	Predator, soil	focal	GCA_034693645.1	Contig	450.5	1.5	No		1	too fragmented
+Galendromus occidentalis	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal	GCF_000255335.2	Scaffold	151.5	896.8	Yes	11208	2	batch 1
+Neoseiulus californicus	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal	GCA_028455905.1	Contig	188.4	16958.6	No		3	batch 1
+Neoseiulus cucumeris	Phytoseiidae	Mesostigmata	Predator, Type III generalist	focal	GCA_021527715.1	Scaffold	173.1	1572.8	No		1	batch 1
+Neoseiulus longispinosus	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal	GCA_052756005.1	Chromosome	199.2	54559.8	No		1	batch 1
+Phytoseiulus persimilis	Phytoseiidae	Mesostigmata	Predator, Type I specialist	focal	GCA_047456425.1	Chromosome	214.2	57945.2	No		2	batch 1
+Varroa destructor	Varroidae	Mesostigmata	Parasite of honey bees	focal	GCF_002443255.2	Scaffold	368.8	58536.7	Yes	10783	3	batch 1
+Varroa jacobsoni	Varroidae	Mesostigmata	Parasite of honey bees	focal	GCF_002532875.2	Scaffold	364.3	234.1	Yes	10683	2	batch 1
+Zercon vagabundus	Zerconidae	Mesostigmata	Predator, soil	focal	GCA_034693825.1	Scaffold	468.4	1.2	No		1	too fragmented
+Halotydeus destructor	Penthaleidae	Trombidiformes: Eupodoidea	Phytophagous	focal	GCA_022750525.2	Chromosome	48.6	4988.5	No		1	batch 1
+Pyemotes zhonghuajia	Pyemotidae	Trombidiformes: Heterostigmata	Parasitoid of insects	focal	GCA_025170145.1	Chromosome	71.9	22127.9	No		1	batch 1
+Acarapis woodi	Tarsonemidae	Trombidiformes: Heterostigmata	Parasite of honey bees	focal	GCA_023170135.1	Scaffold	78.9	12.5	No		1	too fragmented
+Polyphagotarsonemus latus	Tarsonemidae	Trombidiformes: Heterostigmata	Phytophagous	focal	GCA_056881665.1	Scaffold	40.3	38483.9	No		2	batch 1
+Brevipalpus obovatus	Tenuipalpidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCF_050580445.1	Chromosome	67.3	33737.7	Yes	9418	2	batch 1
+Brevipalpus yothersi	Tenuipalpidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCA_003956705.1	Scaffold	71.2	170.8	No		1	batch 1
+Amphitetranychus viennensis	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCA_050437165.1	Chromosome	141.9	45831.3	No		1	batch 1
+Panonychus citri	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCF_014898815.1	Contig	84.0	1807.2	Yes	11460	2	batch 1
+Petrobia harti	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCA_060369935.1	Chromosome	89.0	48351.7	No		1	batch 1
+Tetranychus cinnabarinus	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCA_049115135.1	Chromosome	86.2	29097.2	No		2	batch 1
+Tetranychus evansi	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCA_057930795.1	Contig	89.3	18641.3	Yes	14128	1	batch 1
+Tetranychus piercei	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCA_036759885.1	Chromosome	86.0	29245.0	No		1	batch 1
+Tetranychus truncatus	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCA_028476895.1	Chromosome	80.6	27991.7	No		1	batch 1
+Tetranychus turkestani	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCA_057073485.1	Chromosome	91.1	31102.6	No		1	batch 1
+Tetranychus urticae	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal	GCF_039701765.1	Chromosome	89.3	29475.0	Yes	11657	12	batch 1
+Rhizoglyphus robini	Acaridae	Astigmata	Bulb and root feeder	outgroup	GCA_023373905.3	Chromosome	292.5	30543.4	No		1	batch 1
+Tyrophagus putrescentiae	Acaridae	Astigmata	Stored products, fungivorous	outgroup	GCA_021730765.1	Scaffold	97.4	2913.1	Yes	23009	5	batch 1
+Dermatophagoides farinae	Pyroglyphidae	Astigmata	Detritivorous	outgroup	GCF_020809275.1	Contig	58.8	9265.5	Yes	10172	6	batch 1
+Dermatophagoides pteronyssinus	Pyroglyphidae	Astigmata	Detritivorous	outgroup	GCF_027571235.1	Scaffold	56.7	2729.8	Yes	10208	7	batch 1
+Sarcoptes scabiei	Sarcoptidae	Astigmata	Parasite of mammals	outgroup	GCA_020844145.1	Chromosome	57.3	6519.2	Yes	9318	3	batch 1
+Osperalycus tenerphagus	Nematalycidae	Endeostigmata	Soil dwelling, feeding uncertain	outgroup	GCA_022876805.1	Scaffold	63.8	25.4	No		1	batch 1
+Ixodes scapularis	Ixodidae	Ixodida	Haematophagous	outgroup	GCF_016920785.2	Scaffold	2226.9	132052.7	Yes	26659	7	batch 1
+Oppia nitens	Oppiidae	Oribatida	Fungivorous	outgroup	GCF_028296485.1	Scaffold	126.1	4409.5	Yes	14938	2	batch 1
+Archegozetes longisetosus	Trhypochthoniidae	Oribatida	Detritivorous	outgroup	GCA_018873245.2	Scaffold	141.8	14778.0	No		1	batch 1
+Cosmoglyphus oudemansi	Acaridae	Astigmata	Saprophagous	other	GCA_050580425.1	Chromosome	210.2	22723.2	No		1	not selected
+Sancassania mycophaga	Acaridae	Astigmata	Saprophagous	other	GCA_058386935.1	Chromosome	142.6	17897.1	No		1	not selected
+Carpoglyphus lactis	Carpoglyphidae	Astigmata	Stored products	other	GCA_051106175.1	Chromosome	53.5	5929.0	No		1	not selected
+Blomia tropicalis	Echimyopodidae	Astigmata	Detritivorous	other	GCA_029204025.1	Chromosome	64.8	15739.4	Yes	10651	3	not selected
+Lepidoglyphus destructor	Glycyphagidae	Astigmata	Stored products	other	GCA_031001835.1	Contig	195.3	1673.7	No		2	not selected
+Amerodectes protonotaria	Proctophyllodidae	Astigmata	Feather mite	other	GCA_025882695.1	Scaffold	59.7	43.9	No		1	not selected
+Psoroptes ovis	Psoroptidae	Astigmata	Parasite of mammals	other	GCA_982319595.1	Chromosome	62.6	7334.7	Yes	10516	3	not selected
+Euroglyphus maynei	Pyroglyphidae	Astigmata	Detritivorous	other	GCA_002135145.1	Scaffold	43.4	0.8	Yes	15257	1	not selected
+Oulenziella bakeri	Winterschmidtiidae	Astigmata	Fungivorous	other	GCA_051106155.1	Chromosome	55.1	11545.0	No		1	not selected
+Speleorchestes sp. AD1671	Nanorchestidae	Endeostigmata	Soil dwelling	other	GCA_022884545.1	Scaffold	74.2	1.8	No		1	not selected
+Alveonasus lahorensis		Ixodida	Haematophagous	other	GCA_965286735.1	Contig	1122.8	275.6	No		1	not selected
+Amblyomma americanum		Ixodida	Haematophagous	other	GCF_052857255.1	Chromosome	2560.4	211478.1	Yes	26184	3	not selected
+Amblyomma geoemydae		Ixodida	Haematophagous	other	GCA_965286655.1	Contig	1790.6	37.7	No		1	not selected
+Amblyomma javanense		Ixodida	Haematophagous	other	GCA_965286815.2	Contig	2564.3	55.4	No		1	not selected
+Amblyomma maculatum		Ixodida	Haematophagous	other	GCF_055883805.1	Chromosome	2410.5	189004.6	Yes	22580	3	not selected
+Amblyomma mixtum		Ixodida	Haematophagous	other	GCF_055824585.1	Chromosome	2283.4	205640.0	Yes	29952	2	not selected
+Amblyomma testudinarium		Ixodida	Haematophagous	other	GCA_965286825.1	Contig	2690.8	48.5	No		1	not selected
+Amblyomma varanense		Ixodida	Haematophagous	other	GCA_965286715.1	Contig	1899.0	14.6	No		1	not selected
+Amblyomma variegatum		Ixodida	Haematophagous	other	GCA_965362215.1	Chromosome	8608.4	1015857.8	Yes	28665	1	not selected
+Argas persicus		Ixodida	Haematophagous	other	GCA_055769735.1	Contig	1386.4	4241.1	Yes	21604	1	not selected
+Argas vulgaris		Ixodida	Haematophagous	other	GCA_055769675.1	Chromosome	1340.2	160622.6	Yes	18246	2	not selected
+Dermacentor albipictus		Ixodida	Haematophagous	other	GCF_038994185.2	Chromosome	2210.6	181313.9	Yes	23144	3	not selected
+Dermacentor andersoni		Ixodida	Haematophagous	other	GCF_023375885.2	Chromosome	2425.2	205869.7	Yes	20601	3	not selected
+Dermacentor niveus		Ixodida	Haematophagous	other	GCA_965286785.1	Contig	1790.5	85.3	No		1	not selected
+Dermacentor reticulatus		Ixodida	Haematophagous	other	GCA_060856085.1	Chromosome	2358.4	222660.3	Yes	22559	7	not selected
+Dermacentor silvarum		Ixodida	Haematophagous	other	GCF_013339745.2	Chromosome	2474.3	189477.5	Yes	23419	3	not selected
+Dermacentor variabilis		Ixodida	Haematophagous	other	GCF_050947875.1	Chromosome	2477.3	206609.4	Yes	20394	3	not selected
+Haemaphysalis bispinosa		Ixodida	Haematophagous	other	GCA_052819225.1	Scaffold	1916.0	3.6	No		1	not selected
+Haemaphysalis concinna		Ixodida	Haematophagous	other	GCA_965286775.1	Contig	1694.9	25.9	No		1	not selected
+Haemaphysalis longicornis		Ixodida	Haematophagous	other	GCF_048455015.1	Scaffold	3091.3	213415.1	Yes	25174	8	not selected
+Haemaphysalis montgomeryi		Ixodida	Haematophagous	other	GCA_965286705.1	Contig	1429.6	6.3	No		1	not selected
+Haemaphysalis qinghaiensis		Ixodida	Haematophagous	other	GCA_965286765.1	Contig	1691.9	4.9	No		1	not selected
+Hyalomma anatolicum		Ixodida	Haematophagous	other	GCA_965286835.1	Contig	1780.7	151.8	No		1	not selected
+Hyalomma asiaticum		Ixodida	Haematophagous	other	GCA_013339685.2	Chromosome	1713.6	137335.1	Yes	29644	2	not selected
+Hyalomma lusitanicum		Ixodida	Haematophagous	other	GCA_981163835.1	Contig	1814.2	153563.8	No		2	not selected
+Hyalomma marginatum		Ixodida	Haematophagous	other	GCA_910592705.1	Contig	1.5	382.1	No		7	not selected
+Hyalomma scupense		Ixodida	Haematophagous	other	GCA_965286695.1	Contig	1654.1	61.3	No		1	not selected
+Ixodes hexagonus		Ixodida	Haematophagous	other	GCA_964199285.2	Chromosome	2579.0	1104.0	Yes	19481	1	not selected
+Ixodes inopinatus		Ixodida	Haematophagous	other	GCA_964198085.1	Contig	3845.4	780.5	No		3	not selected
+Ixodes pacificus		Ixodida	Haematophagous	other	GCA_964199305.2	Chromosome	2234.5	73923.3	Yes	29196	1	not selected
+Ixodes persulcatus		Ixodida	Haematophagous	other	GCA_964199295.2	Chromosome	2444.7	97992.2	Yes	24962	3	not selected
+Ixodes ricinus		Ixodida	Haematophagous	other	GCA_964199275.3	Chromosome	2151.9	168173.4	Yes	22677	10	not selected
+Ornithodoros gurneyi		Ixodida	Haematophagous	other	GCA_049901595.1	Contig	1280.4	63.3	No		1	not selected
+Ornithodoros moubata		Ixodida	Haematophagous	other	GCA_905119575.1	Contig	0.3	16.8	No		11	not selected
+Ornithodoros porcinus		Ixodida	Haematophagous	other	GCA_905119495.1	Contig	0.0	6.8	No		3	not selected
+Ornithodoros turicata		Ixodida	Haematophagous	other	GCF_037126465.1	Chromosome	1071.3	84440.1	Yes	22416	2	not selected
+Rhipicephalus annulatus		Ixodida	Haematophagous	other	GCA_013436015.1	Contig	2762.4	437.0	No		1	not selected
+Rhipicephalus appendiculatus		Ixodida	Haematophagous	other	GCA_030522465.2	Contig	2366.0	679.6	Yes	52331	1	not selected
+Rhipicephalus microplus		Ixodida	Haematophagous	other	GCF_043290135.1	Chromosome	3265.2	243251.5	Yes	25490	9	not selected
+Rhipicephalus pumilio		Ixodida	Haematophagous	other	GCA_965286645.1	Contig	1985.2	49.7	No		1	not selected
+Rhipicephalus sanguineus		Ixodida	Haematophagous	other	GCF_013339695.2	Chromosome	2365.5	208696.2	Yes	22510	3	not selected
+Rhipicephalus turanicus		Ixodida	Haematophagous	other	GCA_965286665.1	Contig	1960.9	74.6	No		1	not selected
+Achipteria coleoptrata		Oribatida	Detritivorous or fungivorous	other	GCA_988291565.1	Scaffold	145.3	1669.7	No		3	not selected
+Achipteria nitens		Oribatida	Detritivorous or fungivorous	other	GCA_034698525.1	Contig	106.2	3.7	No		1	not selected
+Adoristes ovatus		Oribatida	Detritivorous or fungivorous	other	GCA_034699165.1	Contig	157.2	2.1	No		1	not selected
+Allosuctobelba grandis		Oribatida	Detritivorous or fungivorous	other	GCA_034694805.1	Contig	140.0	0.3	No		1	not selected
+Atropacarus striculus		Oribatida	Detritivorous or fungivorous	other	GCA_034699525.1	Contig	152.9	1.2	No		1	not selected
+Belba bartosi		Oribatida	Detritivorous or fungivorous	other	GCA_034693685.1	Contig	320.0	3.1	No		1	not selected
+Camisia spinifer		Oribatida	Detritivorous or fungivorous	other	GCA_034694065.1	Contig	373.7	0.4	No		1	not selected
+Camisiidae sp.		Oribatida	Detritivorous or fungivorous	other	GCA_034696325.1	Contig	231.2	3.2	No		1	not selected
+Carabodes femoralis		Oribatida	Detritivorous or fungivorous	other	GCA_034694945.1	Contig	167.9	1.2	No		1	not selected
+Ceratozetes gracilis		Oribatida	Detritivorous or fungivorous	other	GCA_034694965.1	Contig	128.8	4.6	No		1	not selected
+Chamobates pusillus		Oribatida	Detritivorous or fungivorous	other	GCA_034699945.1	Contig	129.3	3.3	No		1	not selected
+Chamobates voigtsi		Oribatida	Detritivorous or fungivorous	other	GCA_034699895.1	Contig	97.7	2.3	No		1	not selected
+Ctenobelba pectinigera		Oribatida	Detritivorous or fungivorous	other	GCA_034695105.1	Contig	188.8	1.1	No		1	not selected
+Dissorhina ornata		Oribatida	Detritivorous or fungivorous	other	GCA_034695265.1	Contig	121.4	4.4	No		1	not selected
+Edwardzetes edwardsi		Oribatida	Detritivorous or fungivorous	other	GCA_034693445.1	Contig	131.8	3.0	No		1	not selected
+Eniochthonius minutissimus		Oribatida	Detritivorous or fungivorous	other	GCA_034695285.1	Contig	176.6	2.0	No		1	not selected
+Eueremaeus valkanovi		Oribatida	Detritivorous or fungivorous	other	GCA_034693305.1	Contig	149.0	9.7	No		1	not selected
+Eupelops occultus		Oribatida	Detritivorous or fungivorous	other	GCA_034695605.1	Contig	160.4	1.3	No		1	not selected
+Eupelops torulosus		Oribatida	Detritivorous or fungivorous	other	GCA_034699185.1	Contig	167.9	1.3	No		1	not selected
+Euphthiracaridae sp.		Oribatida	Detritivorous or fungivorous	other	GCA_034694645.1	Contig	133.6	0.7	No		1	not selected
+Euzetes globulus		Oribatida	Detritivorous or fungivorous	other	GCA_034695525.1	Contig	117.2	8.5	No		1	not selected
+Fuscozetes fuscipes		Oribatida	Detritivorous or fungivorous	other	GCA_034702105.1	Contig	102.9	8.4	No		1	not selected
+Galumna lanceata		Oribatida	Detritivorous or fungivorous	other	GCA_034695685.1	Contig	127.1	4.1	No		1	not selected
+Galumna obvia		Oribatida	Detritivorous or fungivorous	other	GCA_034695785.1	Contig	257.6	5.5	No		1	not selected
+Galumnidae sp. Gr-Ori-00277		Oribatida	Detritivorous or fungivorous	other	GCA_034700165.1	Contig	171.7	4.8	No		1	not selected
+Gustavia microcephala		Oribatida	Detritivorous or fungivorous	other	GCA_034696065.1	Contig	135.4	1.5	No		1	not selected
+Hafenrefferia gilvipes		Oribatida	Detritivorous or fungivorous	other	GCA_034696165.1	Contig	123.8	0.6	No		1	not selected
+Hemileius initialis		Oribatida	Detritivorous or fungivorous	other	GCA_033995645.1	Contig	110.6	1.8	No		1	not selected
+Hermannia gibba		Oribatida	Detritivorous or fungivorous	other	GCA_033995805.1	Contig	236.1	0.5	No		1	not selected
+Hermanniella dolosa		Oribatida	Detritivorous or fungivorous	other	GCA_034700085.1	Contig	117.7	0.3	No		1	not selected
+Hermanniella punctulata		Oribatida	Detritivorous or fungivorous	other	GCA_034699405.1	Contig	273.1	1.6	No		1	not selected
+Hydrozetes lacustris		Oribatida	Detritivorous or fungivorous	other	GCA_988293765.1	Scaffold	98.9	5663.3	No		1	not selected
+Hydrozetes thienemanni		Oribatida	Detritivorous or fungivorous	other	GCA_988291685.1	Scaffold	271.1	1638.5	No		1	not selected
+Hypochthonius rufulus		Oribatida	Detritivorous or fungivorous	other	GCA_988293125.1	Scaffold	184.7	4133.8	No		3	not selected
+Liacarus coracinus		Oribatida	Detritivorous or fungivorous	other	GCA_034699285.1	Contig	221.3	1.6	No		1	not selected
+Liacarus xylariae		Oribatida	Detritivorous or fungivorous	other	GCA_034693365.1	Contig	215.3	6.1	No		1	not selected
+Liebstadia similis		Oribatida	Detritivorous or fungivorous	other	GCA_034689365.1	Contig	83.0	5.4	No		1	not selected
+Malaconothrus monodactylus		Oribatida	Detritivorous or fungivorous	other	GCA_034697245.1	Contig	128.9	4.1	No		1	not selected
+Medioppia subpectinata		Oribatida	Detritivorous or fungivorous	other	GCA_988293725.1	Scaffold	158.6	1538.9	No		2	not selected
+Mesoplophora pulchra		Oribatida	Detritivorous or fungivorous	other	GCA_034697405.1	Contig	142.3	3.6	No		1	not selected
+Metabelba pulverosa		Oribatida	Detritivorous or fungivorous	other	GCA_034697605.1	Contig	226.5	2.9	No		1	not selected
+Microtritia minima		Oribatida	Detritivorous or fungivorous	other	GCA_034699355.1	Contig	132.3	4.6	No		1	not selected
+Minunthozetes semirufus		Oribatida	Detritivorous or fungivorous	other	GCA_034699985.1	Contig	87.7	12.1	No		1	not selected
+Nanhermannia cf. coronata Gr-Ori-00579		Oribatida	Detritivorous or fungivorous	other	GCA_034699045.1	Contig	177.8	15.5	No		2	not selected
+Nanhermannia comitalis		Oribatida	Detritivorous or fungivorous	other	GCA_034697665.1	Contig	205.6	2.8	No		1	not selected
+Nanhermannia elegantula		Oribatida	Detritivorous or fungivorous	other	GCA_034699485.1	Contig	248.5	3.7	No		1	not selected
+Nanhermannia nana		Oribatida	Detritivorous or fungivorous	other	GCA_033996565.1	Scaffold	486.8	0.3	No		1	not selected
+Nothrus palustris		Oribatida	Detritivorous or fungivorous	other	GCA_988291575.1	Scaffold	254.7	6875.0	No		2	not selected
+Nothrus silvestris		Oribatida	Detritivorous or fungivorous	other	GCA_033995675.1	Contig	193.8	2.4	No		1	not selected
+Oppiella nova		Oribatida	Detritivorous or fungivorous	other	GCA_988293445.1	Scaffold	117.4	3670.5	No		2	not selected
+Oribatida sp.		Oribatida	Detritivorous or fungivorous	other	GCA_034697865.1	Contig	115.7	3.4	No		2	not selected
+Oribatida sp. Gr-Ori-00025		Oribatida	Detritivorous or fungivorous	other	GCA_034700865.1	Contig	97.5	2.3	No		1	not selected
+Oribatida sp. Gr-Ori-00743		Oribatida	Detritivorous or fungivorous	other	GCA_034699325.1	Contig	84.1	3.3	No		1	not selected
+Pantelozetes paolii		Oribatida	Detritivorous or fungivorous	other	GCA_034687845.1	Contig	78.6	17.5	No		1	not selected
+Phthiracarus crinitus		Oribatida	Detritivorous or fungivorous	other	GCA_034698025.1	Contig	236.3	7.2	No		1	not selected
+Phthiracarus laevigatus		Oribatida	Detritivorous or fungivorous	other	GCA_034700185.1	Contig	251.8	6.5	No		1	not selected
+Platynothrus peltifer		Oribatida	Detritivorous or fungivorous	other	GCA_051820355.1	Scaffold	202.6	10308.4	No		4	not selected
+Porobelba spinosa		Oribatida	Detritivorous or fungivorous	other	GCA_034699545.1	Contig	151.2	2.8	No		1	not selected
+Punctoribates punctum		Oribatida	Detritivorous or fungivorous	other	GCA_034698165.1	Contig	87.5	14.8	No		1	not selected
+Quadroppia sp. Gr-Ori-00064		Oribatida	Detritivorous or fungivorous	other	GCA_034700825.1	Contig	72.1	13.9	No		1	not selected
+Scheloribates pallidulus latipes		Oribatida	Detritivorous or fungivorous	other	GCA_034698225.1	Contig	121.1	3.9	No		1	not selected
+Steganacarus magnus		Oribatida	Detritivorous or fungivorous	other	GCA_034698365.1	Contig	186.6	5.1	No		2	not selected
+Tectocepheus sarekensis		Oribatida	Detritivorous or fungivorous	other	GCA_034700505.1	Contig	80.6	0.7	No		1	not selected
+Tectocepheus velatus		Oribatida	Detritivorous or fungivorous	other	GCA_034700625.1	Contig	118.6	4.1	No		1	not selected
+Zygoribatula sp.		Oribatida	Detritivorous or fungivorous	other	GCA_034698965.1	Contig	91.6	2.9	No		1	not selected
+Leptotrombidium deliense	Trombiculidae	Trombidiformes: Parasitengona	Parasite (larva)	other	GCA_003675905.2	Scaffold	117.3	2.9	Yes	14667	1	not selected
+Leptotrombidium pallidum	Trombiculidae	Trombidiformes: Parasitengona	Parasite (larva)	other	GCA_013372475.1	Contig	170.9	2.3	No		1	not selected
+Dinothrombium tinctorium	Trombidiidae	Trombidiformes: Parasitengona	Predator (adult), parasite (larva)	other	GCA_003675995.1	Scaffold	180.4	16.5	Yes	19024	1	not selected

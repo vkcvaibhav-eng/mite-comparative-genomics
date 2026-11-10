@@ -1,1 +1,39 @@
 Species	Family	Order / group	Feeding type	Accession	Assembly level	Genome size (Mb)	Scaffold N50 (kb)	BUSCO complete (%)	BUSCO duplicated (%)	Annotation available	Protein count	Include?	Notes
+Aculops lycopersici	Eriophyidae	Eriophyoidea	Phytophagous	GCA_015350385.1	Scaffold	32.5	10499.5			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Eriophyidae sp.	Eriophyidae	Eriophyoidea	Phytophagous	GCA_045522265.1	Complete Genome	34.3	17366.4			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Floracarus perrepae	Eriophyidae	Eriophyoidea	Phytophagous	GCA_062075706.1	Contig	23.1	10182.8			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Fragariocoptes setiger	Phytoptidae	Eriophyoidea	Phytophagous	GCA_019968535.1	Contig	40.9	31.6			Yes (NCBI)	3058	Pending BUSCO	Feeding type to be checked against the literature
+Setoptus koraiensis	Phytoptidae	Eriophyoidea	Phytophagous	GCA_048013815.1	Chromosome	48.8	24533.3			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Dermanyssus gallinae	Dermanyssidae	Mesostigmata	Parasite of birds	GCA_003439945.1	Contig	959.0	278.6			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Stratiolaelaps scimitus	Laelapidae	Mesostigmata	Predator, soil generalist	GCA_019614645.1	Contig	426.5	7661.9			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Tropilaelaps mercedesae	Laelapidae	Mesostigmata	Parasite of honey bees	GCA_002081605.1	Scaffold	352.5	28.9			Yes (NCBI)	14303	Pending BUSCO	Feeding type to be checked against the literature
+Galendromus occidentalis	Phytoseiidae	Mesostigmata	Predator, Type II selective	GCF_000255335.2	Scaffold	151.5	896.8			Yes (NCBI)	11208	Pending BUSCO	Feeding type to be checked against the literature
+Neoseiulus californicus	Phytoseiidae	Mesostigmata	Predator, Type II selective	GCA_028455905.1	Contig	188.4	16958.6			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Neoseiulus cucumeris	Phytoseiidae	Mesostigmata	Predator, Type III generalist	GCA_021527715.1	Scaffold	173.1	1572.8			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Neoseiulus longispinosus	Phytoseiidae	Mesostigmata	Predator, Type II selective	GCA_052756005.1	Chromosome	199.2	54559.8			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Phytoseiulus persimilis	Phytoseiidae	Mesostigmata	Predator, Type I specialist	GCA_047456425.1	Chromosome	214.2	57945.2			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Varroa destructor	Varroidae	Mesostigmata	Parasite of honey bees	GCF_002443255.2	Scaffold	368.8	58536.7			Yes (NCBI)	10783	Pending BUSCO	Feeding type to be checked against the literature
+Varroa jacobsoni	Varroidae	Mesostigmata	Parasite of honey bees	GCF_002532875.2	Scaffold	364.3	234.1			Yes (NCBI)	10683	Pending BUSCO	Feeding type to be checked against the literature
+Halotydeus destructor	Penthaleidae	Trombidiformes: Eupodoidea	Phytophagous	GCA_022750525.2	Chromosome	48.6	4988.5			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Pyemotes zhonghuajia	Pyemotidae	Trombidiformes: Heterostigmata	Parasitoid of insects	GCA_025170145.1	Chromosome	71.9	22127.9			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Polyphagotarsonemus latus	Tarsonemidae	Trombidiformes: Heterostigmata	Phytophagous	GCA_056881665.1	Scaffold	40.3	38483.9			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Brevipalpus obovatus	Tenuipalpidae	Trombidiformes: Tetranychoidea	Phytophagous	GCF_050580445.1	Chromosome	67.3	33737.7			Yes (NCBI)	9418	Pending BUSCO	Feeding type to be checked against the literature
+Brevipalpus yothersi	Tenuipalpidae	Trombidiformes: Tetranychoidea	Phytophagous	GCA_003956705.1	Scaffold	71.2	170.8			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Amphitetranychus viennensis	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	GCA_050437165.1	Chromosome	141.9	45831.3			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Panonychus citri	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	GCF_014898815.1	Contig	84.0	1807.2			Yes (NCBI)	11460	Pending BUSCO	Feeding type to be checked against the literature
+Petrobia harti	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	GCA_060369935.1	Chromosome	89.0	48351.7			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Tetranychus cinnabarinus	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	GCA_049115135.1	Chromosome	86.2	29097.2			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Tetranychus evansi	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	GCA_057930795.1	Contig	89.3	18641.3			Yes (NCBI)	14128	Pending BUSCO	Feeding type to be checked against the literature
+Tetranychus piercei	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	GCA_036759885.1	Chromosome	86.0	29245.0			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Tetranychus truncatus	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	GCA_028476895.1	Chromosome	80.6	27991.7			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Tetranychus turkestani	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	GCA_057073485.1	Chromosome	91.1	31102.6			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Tetranychus urticae	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	GCF_039701765.1	Chromosome	89.3	29475.0			Yes (NCBI)	11657	Pending BUSCO	Feeding type to be checked against the literature
+Rhizoglyphus robini	Acaridae	Astigmata	Bulb and root feeder	GCA_023373905.3	Chromosome	292.5	30543.4			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Tyrophagus putrescentiae	Acaridae	Astigmata	Stored products, fungivorous	GCA_021730765.1	Scaffold	97.4	2913.1			Yes (NCBI)	23009	Pending BUSCO	Feeding type to be checked against the literature
+Dermatophagoides farinae	Pyroglyphidae	Astigmata	Detritivorous	GCF_020809275.1	Contig	58.8	9265.5			Yes (NCBI)	10172	Pending BUSCO	Feeding type to be checked against the literature
+Dermatophagoides pteronyssinus	Pyroglyphidae	Astigmata	Detritivorous	GCF_027571235.1	Scaffold	56.7	2729.8			Yes (NCBI)	10208	Pending BUSCO	Feeding type to be checked against the literature
+Sarcoptes scabiei	Sarcoptidae	Astigmata	Parasite of mammals	GCA_020844145.1	Chromosome	57.3	6519.2			Yes (NCBI)	9318	Pending BUSCO	Feeding type to be checked against the literature
+Osperalycus tenerphagus	Nematalycidae	Endeostigmata	Soil dwelling, feeding uncertain	GCA_022876805.1	Scaffold	63.8	25.4			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature
+Ixodes scapularis	Ixodidae	Ixodida	Haematophagous	GCF_016920785.2	Scaffold	2226.9	132052.7			Yes (NCBI)	26659	Pending BUSCO	Feeding type to be checked against the literature
+Oppia nitens	Oppiidae	Oribatida	Fungivorous	GCF_028296485.1	Scaffold	126.1	4409.5			Yes (NCBI)	14938	Pending BUSCO	Feeding type to be checked against the literature
+Archegozetes longisetosus	Trhypochthoniidae	Oribatida	Detritivorous	GCA_018873245.2	Scaffold	141.8	14778.0			Not at NCBI		Pending BUSCO	Feeding type to be checked against the literature

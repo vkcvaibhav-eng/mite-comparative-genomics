@@ -1,0 +1,159 @@
+Assembly Accession	Organism Name	Organism Taxonomic ID	Assembly Level	Assembly Release Date	Assembly Submitter	Assembly Stats Total Sequence Length	Assembly Stats Contig N50	Assembly Stats Scaffold N50	Assembly Stats Number of Scaffolds	Annotation Name	Annotation Provider	Annotation Release Date	Annotation Count Gene Protein-coding
+GCA_023170135.1	Acarapis woodi	478375	Scaffold	2022-04-06	Center for Environmental Biology and Ecosystem Studies, National Institute for Environmental Studies	78883898	12396	12522	13378				
+GCA_988291565.1	Achipteria coleoptrata	229769	Scaffold	2026-09-25	university of cologne	145321555	232559	1669686	251				
+GCA_000988765.1	Achipteria coleoptrata	229769	Scaffold	2015-05-06	University of Lausanne	88443889	3360	7481	56345				
+GCA_034683705.1	Achipteria coleoptrata	229769	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	115092672	5239	5239	43930				
+GCA_034698525.1	Achipteria nitens	2926718	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	106201437	3688	3688	78535				
+GCA_015350385.1	Aculops lycopersici	1227671	Scaffold	2020-11-10	Tomato Russet Mite Consortium	32530641	71287	10499462	7				
+GCA_051403075.1	Aculus huzhongsalixus	2920996	Scaffold	2025-07-18	Nanjing Agricultural University	33191239	5926	5931	18583				
+GCA_034699165.1	Adoristes ovatus	708363	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	157236323	2145	2145	146984				
+GCA_034694805.1	Allosuctobelba grandis	2881524	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	139965149	338	338	385009				
+GCA_025882695.1	Amerodectes protonotaria	2928380	Scaffold	2022-10-27	Arkansas State University	59665063	43311	43948	2399				
+GCA_050437165.1	Amphitetranychus viennensis	381746	Chromosome	2025-05-19	Shanxi Agricultural University	141928560	1313302	45831309	46				
+GCA_018873245.2	Archegozetes longisetosus	66560	Scaffold	2022-07-12	California Institute of Technology	141846319	1720000	14778000	164				
+GCA_034699525.1	Atropacarus striculus	229743	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	152944849	1159	1159	218662				
+GCA_034693685.1	Belba bartosi	2905843	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	319979791	3082	3082	488413				
+GCA_029204025.1	Blomia tropicalis	40697	Chromosome	2023-03-14	The Affiliated Wuxi People's Hospital of Nanjing Medical University	64772007	8000912	15739378	7	Annotation submitted by The Affiliated Wuxi People's Hospital of Nanjing Medical University	The Affiliated Wuxi People's Hospital of Nanjing Medical University	2023-03-14	10651
+GCA_021650745.2	Blomia tropicalis	40697	Scaffold	2022-04-22	The Chinese University of Hong Kong	63746680	1279730	3687816	116	Annotation submitted by The Chinese University of Hong Kong	The Chinese University of Hong Kong	2022-04-21	16592
+GCA_032466075.1	Blomia tropicalis	40697	Contig	2023-10-10	University of Michigan	61527417	234933	234933	1060				
+GCF_050580445.1	Brevipalpus obovatus	246614	Chromosome	2025-05-27	Guizhou University	67286437	33737663	33737663	4	GCF_050580445.1-RS_2025_06	NCBI RefSeq	2025-06-24	9418
+GCA_050580445.1	Brevipalpus obovatus	246614	Chromosome	2025-05-27	Guizhou University	67286437	33737663	33737663	4				
+GCA_003956705.1	Brevipalpus yothersi	1754060	Scaffold	2018-12-19	VIB - UGent	71154195	56226	170846	843				
+GCA_034694065.1	Camisia spinifer	198258	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	373715713	376	376	836107				
+GCA_034696325.1	Camisiidae sp.	3018425	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	231213442	3167	3167	303336				
+GCA_034694945.1	Carabodes femoralis	229793	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	167943470	1246	1246	229941				
+GCA_051106175.1	Carpoglyphus lactis	223459	Chromosome	2025-06-26	Guizhou University	53467945	713309	5929025	12				
+GCA_034694965.1	Ceratozetes gracilis	1686620	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	128808183	4570	4570	99490				
+GCA_034699945.1	Chamobates pusillus	503572	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	129272221	3336	3336	100231				
+GCA_034699895.1	Chamobates voigtsi	198262	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	97703110	2289	2289	77858				
+GCA_050580425.1	Cosmoglyphus oudemansi	3423435	Chromosome	2025-05-27	Guizhou University	210178571	13373144	22723150	9				
+GCA_034695105.1	Ctenobelba pectinigera	1401282	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	188754411	1078	1078	254643				
+GCF_024713945.1	Dermatophagoides farinae	6954	Chromosome	2022-08-25	Wuxi People's Hospital Affiliated to Nanjing Medical University	62428314	5241854	7117990	21	GCF_024713945.1-RS_2025_07	NCBI RefSeq	2025-07-23	10149
+GCF_020809275.1	Dermatophagoides farinae	6954	Contig	2021-11-09	EasyATGC	58776842	9265486	9265486	10	NCBI Dermatophagoides farinae Annotation Release 100	NCBI RefSeq	2022-03-03	10172
+GCA_000767015.2	Dermatophagoides farinae	6954	Scaffold	2022-02-04	The Chinese University of Hong Kong	60394945	2293841	8981490	10	Annotation submitted by The Chinese University of Hong Kong	The Chinese University of Hong Kong	2022-02-04	15208
+GCA_002085665.2	Dermatophagoides farinae	6954	Scaffold	2017-04-10	University of Southern Mississippi	91877446	188869	192501	1703				
+GCA_020809275.1	Dermatophagoides farinae	6954	Contig	2021-11-10	EasyATGC	58776842	9265486	9265486	10	Annotation submitted by EasyATGC	EasyATGC	2022-12-05	10672
+GCA_024713945.1	Dermatophagoides farinae	6954	Chromosome	2022-08-25	Wuxi People's Hospital Affiliated to Nanjing Medical University	62428314	5241854	7117990	21				
+GCF_027571235.1	Dermatophagoides pteronyssinus	6956	Scaffold	2023-01-05	VIB - UGent	56739868	2670512	2729777	107	GCF_027571235.1-RS_2025_07	NCBI RefSeq	2025-07-23	10208
+GCF_001901225.1	Dermatophagoides pteronyssinus	6956	Scaffold	2017-06-21	Maynooth University	70764025	68101	450436	1322	NCBI Dermatophagoides pteronyssinus Annotation Release 100	NCBI RefSeq	2018-12-13	11184
+GCA_001901225.2	Dermatophagoides pteronyssinus	6956	Scaffold	2017-06-21	Maynooth University	70764025	68101	450436	1322				
+GCA_003076615.3	Dermatophagoides pteronyssinus	6956	Contig	2022-02-01	THE CHINESE UNIVERSITY OF HONG KONG (CUHK)	59034585	963061	963061	131	Annotation submitted by THE CHINESE UNIVERSITY OF HONG KONG (CUHK)	THE CHINESE UNIVERSITY OF HONG KONG (CUHK)	2022-02-01	14739
+GCA_027571235.1	Dermatophagoides pteronyssinus	6956	Scaffold	2023-01-05	VIB - UGent	56739868	2670512	2729777	107				
+GCA_051988755.1	Dermatophagoides pteronyssinus	6956	Scaffold	2025-08-13	NIEHS	51906393	376024	400153	796				
+GCA_059052235.1	Dermatophagoides pteronyssinus	6956	Complete Genome	2026-07-07	The Affiliated Wuxi People's Hospital of Nanjing Medical University	56160786	4914821	4914821	13				
+GCA_003675995.1	Dinothrombium tinctorium	1965070	Scaffold	2018-10-23	University of Liverpool	180399227	16055	16512	22758	Annotation submitted by University of Liverpool	University of Liverpool	2019-01-15	19024
+GCA_034695265.1	Dissorhina ornata	2202870	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	121444348	4443	4443	68685				
+GCA_034693445.1	Edwardzetes edwardsi	2202872	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	131848115	3048	3048	169549				
+GCA_034695285.1	Eniochthonius minutissimus	229763	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	176556152	2045	2045	168279				
+GCA_045522265.1	Eriophyidae sp.	3064711	Complete Genome	2024-12-02	University of New South Wales	34344194	17366404	17366404	2				
+GCA_034693305.1	Eueremaeus valkanovi	1401269	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	149025146	9700	9700	62154				
+GCA_034695605.1	Eupelops occultus	2234141	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	160358522	1259	1259	285482				
+GCA_034699185.1	Eupelops torulosus	198282	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	167949112	1267	1267	272012				
+GCA_034694645.1	Euphthiracaridae sp.	3018423	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	133642813	717	717	234903				
+GCA_002135145.1	Euroglyphus maynei	6958	Scaffold	2017-05-12	Wright State University	43424110	786	787	72748	Annotation submitted by Wright State University	Wright State University	2017-05-12	15257
+GCA_034695525.1	Euzetes globulus	334610	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	117215550	8451	8451	27489				
+GCA_062075706.1	Floracarus perrepae	302415	Contig	2026-11-04	University of Arizona	23133131	10182762	10182762	7				
+GCA_019968535.1	Fragariocoptes setiger	1670756	Contig	2021-09-14	University of Tyumen	40885299	31557	31557	3582	Annotation submitted by University of Tyumen	University of Tyumen	2021-09-14	3058
+GCA_034702105.1	Fuscozetes fuscipes	1686651	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	102930043	8419	8419	32601				
+GCA_034695685.1	Galumna lanceata	229834	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	127130782	4084	4084	73647				
+GCA_034695785.1	Galumna obvia	885392	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	257591165	5484	5484	98916				
+GCA_034700165.1	Galumnidae sp. Gr-Ori-00277	3019574	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	171670366	4784	4784	79703				
+GCA_034696065.1	Gustavia microcephala	1685391	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	135357150	1482	1482	162093				
+GCA_034696165.1	Hafenrefferia gilvipes	2547479	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	123828463	643	643	227506				
+GCA_022750525.2	Halotydeus destructor	2874060	Chromosome	2026-09-25	The University of Melbourne	48636580	797000	4988485	60				
+GCA_033995645.1	Hemileius initialis	229864	Contig	2023-11-30	LOEWE Centre for Translational Biodiversity Genomics	110644240	1755	1755	120139				
+GCA_033995805.1	Hermannia gibba	229873	Contig	2023-11-30	LOEWE Centre for Translational Biodiversity Genomics	236053802	539	539	483231				
+GCA_034700085.1	Hermanniella dolosa	2664692	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	117679584	347	347	307416				
+GCA_034699405.1	Hermanniella punctulata	885393	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	273134041	1643	1643	289161				
+GCA_988293765.1	Hydrozetes lacustris	503180	Scaffold	2026-10-01	university of cologne	98862563	2302134	5663257	59				
+GCA_988291685.1	Hydrozetes thienemanni	1914584	Scaffold	2026-09-25	university of cologne	271062144	438568	1638458	349				
+GCA_988293125.1	Hypochthonius rufulus	66581	Scaffold	2026-10-01	university of cologne	184719097	957324	4133765	76				
+GCA_000988845.1	Hypochthonius rufulus	66581	Scaffold	2015-05-06	University of Lausanne	172365132	3126	4212	140449				
+GCA_034700025.1	Hypochthonius rufulus	66581	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	39868909	384	384	103399				
+GCA_031001835.1	Lepidoglyphus destructor	36936	Contig	2023-08-30	Vavilov Institute of General Genetics RAS	195296359	1673654	1673654	476				
+GCA_032467915.1	Lepidoglyphus destructor	36936	Contig	2023-10-10	University of Michigan	141384166	30370	30370	11727				
+GCA_003675905.2	Leptotrombidium deliense	299467	Scaffold	2018-10-23	University of Liverpool	117319359	2903	2941	66710	Annotation submitted by University of Liverpool	University of Liverpool	2022-11-17	14667
+GCA_013372475.1	Leptotrombidium pallidum	279272	Contig	2020-06-24	Seoul National University	170868783	2279	2279	190013				
+GCA_034699285.1	Liacarus coracinus	198285	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	221281533	1562	1562	230773				
+GCA_034693365.1	Liacarus xylariae	2905847	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	215281546	6117	6117	85584				
+GCA_034689365.1	Liebstadia similis	1250587	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	83010846	5381	5381	41330				
+GCA_034697245.1	Malaconothrus monodactylus	1797415	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	128948340	4129	4129	92933				
+GCA_988293725.1	Medioppia subpectinata	1979941	Scaffold	2026-10-01	university of cologne	158615823	495253	1538901	245				
+GCA_905368565.1	Medioppia subpectinata	1979941	Scaffold	2021-09-27	University of Lausanne	213169163	6352	7017	60250	Annotation submitted by University of Lausanne	University of Lausanne	2021-09-27	23249
+GCA_034697405.1	Mesoplophora pulchra	2732949	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	142257724	3595	3595	100390				
+GCA_034697605.1	Metabelba pulverosa	2882358	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	226479737	2936	2936	291571				
+GCA_034699355.1	Microtritia minima	229747	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	132312475	4622	4622	140857				
+GCA_034699985.1	Minunthozetes semirufus	1979919	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	87669362	12103	12103	47340				
+GCA_034699045.1	Nanhermannia cf. coronata Gr-Ori-00579	2926753	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	177794020	15453	15453	58328				
+GCA_034701045.1	Nanhermannia cf. coronata Gr-Ori-00579	2926753	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	258828956	2506	2506	269550				
+GCA_034697665.1	Nanhermannia comitalis	1979898	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	205603006	2783	2783	184419				
+GCA_034699485.1	Nanhermannia elegantula	2905849	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	248495795	3653	3653	310833				
+GCA_033996565.1	Nanhermannia nana	198291	Scaffold	2023-11-30	LOEWE Centre for Translational Biodiversity Genomics	486846283	289	289	1254644				
+GCA_988291575.1	Nothrus palustris	198293	Scaffold	2026-09-25	university of cologne	254698095	1592732	6875046	139				
+GCA_034697745.1	Nothrus palustris	198293	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	199977458	1906	1906	256624				
+GCA_033995675.1	Nothrus silvestris	66602	Contig	2023-11-30	LOEWE Centre for Translational Biodiversity Genomics	193802989	2369	2369	213379				
+GCF_028296485.1	Oppia nitens	1686743	Scaffold	2023-01-30	University of Saskatchewan	126096124	4409514	4409514	65	GCF_028296485.1-RS_2023_03	NCBI RefSeq	2023-03-10	14938
+GCA_028296485.1	Oppia nitens	1686743	Scaffold	2023-01-30	University of Saskatchewan	126096124	4409514	4409514	65				
+GCA_988293445.1	Oppiella nova	334625	Scaffold	2026-10-01	university of cologne	117417851	2742101	3670518	51				
+GCA_905397405.1	Oppiella nova	334625	Scaffold	2021-09-27	University of Lausanne	196724551	6155	6753	63118	Annotation submitted by University of Lausanne	University of Lausanne	2021-09-27	23525
+GCA_034695145.1	Oribatida sp.	3018422	Scaffold	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	76668500	384	384	200594				
+GCA_034697865.1	Oribatida sp.	3018422	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	115667871	3429	3429	82757				
+GCA_034700865.1	Oribatida sp. Gr-Ori-00025	3019573	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	97520136	2283	2283	77090				
+GCA_034699325.1	Oribatida sp. Gr-Ori-00743	3019572	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	84107981	3339	3339	70956				
+GCA_022876805.1	Osperalycus tenerphagus	2051723	Scaffold	2022-04-11	The Ohio State University	63819443	3904	25427	6776				
+GCA_051106155.1	Oulenziella bakeri	1569442	Chromosome	2025-06-26	Guizhou University	55116875	3430687	11544988	7				
+GCF_014898815.1	Panonychus citri	50023	Contig	2020-10-20	Citrus Research Institute, Southwest University/Chinese Academy of Agricultural Sciences	83967451	1807243	1807243	144	GCF_014898815.1-RS_2023_01	NCBI RefSeq	2023-01-26	11460
+GCA_014898815.1	Panonychus citri	50023	Contig	2020-10-20	Citrus Research Institute, Southwest University/Chinese Academy of Agricultural Sciences	83967451	1807243	1807243	144				
+GCA_034687845.1	Pantelozetes paolii	1979943	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	78600481	17531	17531	18973				
+GCA_060369935.1	Petrobia harti	50026	Chromosome	2026-08-24	Guizhou university	89044699	1308025	48351735	31				
+GCA_034698025.1	Phthiracarus crinitus	2732952	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	236274553	7175	7175	101408				
+GCA_034700185.1	Phthiracarus laevigatus	2732954	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	251760239	6488	6488	215135				
+GCA_051820355.1	Platynothrus peltifer	128015	Scaffold	2025-08-05	University of Cologne	202584216	10308391	10308391	45				
+GCA_000988905.1	Platynothrus peltifer	128015	Scaffold	2015-05-06	University of Lausanne	100532934	1236	1570	105671				
+GCA_034698185.1	Platynothrus peltifer	128015	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	221565194	384	384	536423				
+GCA_051820325.1	Platynothrus peltifer	128015	Scaffold	2025-08-05	University of Cologne	203271072	9773527	9773527	63				
+GCA_040055235.1	Polyphagotarsonemus latus	1204166	Contig	2024-06-04	ICAR-National Bureau of Agricultural Insect Resources	49135586	30903301	30903301	2				
+GCA_056881665.1	Polyphagotarsonemus latus	1204166	Scaffold	2026-04-24	University of Agril. Sciences, GKVK, Bangalore, India	40268520	9279115	38483911	14				
+GCA_034699545.1	Porobelba spinosa	2886740	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	151170320	2790	2790	109602				
+GCA_982319595.1	Psoroptes ovis	83912	Chromosome	2026-03-21	Centro Nacional de Análisis Genómico	62646127	7334676	7334676	10	Annotation submitted by Centro Nacional de Análisis Genómico	Centro Nacional de Análisis Genómico	2026-03-21	10516
+GCA_002943765.1	Psoroptes ovis	83912	Contig	2018-02-26	Moredun Research Institute	63214126	2279290	2279290	93				
+GCA_964342145.1	Psoroptes ovis	83912	Chromosome	2024-11-29	Centro Nacional de Análisis Genómico	62549845	491361	7163830	24				
+GCA_034698165.1	Punctoribates punctum	1720615	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	87488551	14839	14839	57721				
+GCA_025170145.1	Pyemotes zhonghuajia	2749944	Chromosome	2022-09-14	Guizhou University	71942951	21247872	22127881	19				
+GCA_034700825.1	Quadroppia sp. Gr-Ori-00064	3019575	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	72091996	13931	13931	28807				
+GCA_023373905.3	Rhizoglyphus robini	223528	Chromosome	2026-07-27	Adam Mickiewicz University	292507454	2927131	30543443	150				
+GCA_058386935.1	Sancassania mycophaga	3127633	Chromosome	2026-06-24	Guizhou University	142599840	1400880	17897059	60				
+GCA_020844145.1	Sarcoptes scabiei	52283	Chromosome	2021-11-12	College of Veterinary Medicine, Sichuan Agricultural University	57283228	5924017	6519198	9	Annotation submitted by College of Veterinary Medicine, Sichuan Agricultural University	College of Veterinary Medicine, Sichuan Agricultural University	2022-09-24	9318
+GCA_000828355.1	Sarcoptes scabiei	52283	Scaffold	2015-02-10	Wright State University	56248770	11196	11557	18859	Annotation submitted by Wright State University	Wright State University	2016-11-22	10473
+GCA_014595675.1	Sarcoptes scabiei	52283	Scaffold	2020-09-15	University of Melbourne	56576587	1984575	2965819	66	Annotation submitted by University of Melbourne	University of Melbourne	2022-08-31	9094
+GCA_034698225.1	Scheloribates pallidulus latipes	3898166	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	121118412	3881	3881	110577				
+GCA_048013815.1	Setoptus koraiensis	1452707	Chromosome	2025-02-25	Nanjing Agricultural University	48755295	324250	24533333	2				
+GCA_022884545.1	Speleorchestes sp. AD1671	2821422	Scaffold	2022-04-11	The Ohio State University	74171781	1255	1785	41916				
+GCA_034698365.1	Steganacarus magnus	52000	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	186593305	5070	5070	108342				
+GCA_000988885.1	Steganacarus magnus	52000	Scaffold	2015-05-06	University of Lausanne	113565242	1617	2474	101545				
+GCA_034700505.1	Tectocepheus sarekensis	198303	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	80558644	733	733	145543				
+GCA_034700625.1	Tectocepheus velatus	229869	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	118622841	4133	4133	182558				
+GCA_049115135.1	Tetranychus cinnabarinus	93129	Chromosome	2025-03-28	Southwest University,chongqing	86219327	21774485	29097203	30				
+GCA_022266195.1	Tetranychus cinnabarinus	93129	Contig	2022-02-16	Nanjing agricultural university	89718160	12775763	12775763	138				
+GCA_057930795.1	Tetranychus evansi	178897	Contig	2026-06-04	Ghent University	89292786	18641311	18641311	11	Annotation submitted by Ghent University	Ghent University	2026-06-04	14128
+GCA_036759885.1	Tetranychus piercei	93131	Chromosome	2024-02-22	Nanjing Agricultural University	86017333	3326707	29245017	3				
+GCA_028476895.1	Tetranychus truncatus	93132	Chromosome	2023-02-06	Nanjing Agricultural University	80582051	5190435	27991735	3				
+GCA_057073485.1	Tetranychus turkestani	133227	Chromosome	2026-04-30	Nanjing Agricultural University	91069765	342116	31102613	3				
+GCF_039701765.1	Tetranychus urticae	32264	Chromosome	2024-05-21	Nanjing agricultural university	89256200	22430000	29475000	10	GCF_039701765.1-RS_2026_10	NCBI RefSeq	2026-10-08	11657
+GCF_000239435.1	Tetranychus urticae	32264	Scaffold	2011-12-20	DOE Joint Genome Institute	90815494	212780	2993488	640	NCBI Tetranychus urticae Annotation Release 101	NCBI RefSeq	2018-05-07	11686
+GCA_000239435.1	Tetranychus urticae	32264	Scaffold	2011-12-20	DOE Joint Genome Institute	90815494	212780	2993488	640				
+GCA_030522305.1	Tetranychus urticae	32264	Contig	2023-07-24	University of Utah	86592129	5445515	5445515	80				
+GCA_030522315.1	Tetranychus urticae	32264	Contig	2023-07-24	University of Utah	86191031	14073705	14073705	45				
+GCA_030522325.1	Tetranychus urticae	32264	Scaffold	2023-07-24	University of Utah	103245160	2154	48256	19577				
+GCA_035773135.1	Tetranychus urticae	32264	Contig	2024-01-17	Elizabeth Macarthur Agricultural Institute	91224368	21519499	21519499	42				
+GCA_036877765.1	Tetranychus urticae	32264	Chromosome	2024-02-26	Beijing Academy of Agriculture and Forestry Sciences	89930049	4762745	29602728	51				
+GCA_039701765.1	Tetranychus urticae	32264	Chromosome	2024-05-21	Nanjing agricultural university	89256200	22430000	29475000	10				
+GCA_051529885.1	Tetranychus urticae	32264	Contig	2025-07-24	Vavilov Institute of General Genetics RAS	103165359	441050	441050	1319				
+GCA_965642085.1	Tetranychus urticae	32264	Chromosome	2025-07-18	WELLCOME SANGER INSTITUTE	85992923	2675514	22684703	40				
+GCA_965642115.1	Tetranychus urticae	32264	Chromosome	2025-07-18	WELLCOME SANGER INSTITUTE	88244854	2754948	21661122	127				
+GCA_024499935.1	Tyrophagus putrescentiae	59818	Scaffold	2022-08-01	Wuxi People's Hospital Affiliated to Nanjing Medical University	102281514	851625	12929803	145				
+GCA_012066115.1	Tyrophagus putrescentiae	59818	Scaffold	2020-04-09	University of Michigan	95121465	12091	15349	19730				
+GCA_021730765.1	Tyrophagus putrescentiae	59818	Scaffold	2022-01-31	The Chinese University of Hong Kong	97387311	543404	2913131	176	Annotation submitted by The Chinese University of Hong Kong	The Chinese University of Hong Kong	2022-01-31	23009
+GCA_034688605.1	Tyrophagus putrescentiae	59818	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	82801004	8775	8775	23139				
+GCA_037975045.1	Tyrophagus putrescentiae	59818	Contig	2024-04-05	University of Michigan	95709288	23251	23251	9998				
+GCA_034698965.1	Zygoribatula sp.	3018428	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	91560864	2894	2894	62983				

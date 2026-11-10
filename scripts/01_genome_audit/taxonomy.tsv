@@ -1,0 +1,49 @@
+name	family	group	feeding	tier
+Tetranychus	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal
+Amphitetranychus	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal
+Panonychus	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal
+Petrobia	Tetranychidae	Trombidiformes: Tetranychoidea	Phytophagous	focal
+Brevipalpus	Tenuipalpidae	Trombidiformes: Tetranychoidea	Phytophagous	focal
+Aculops	Eriophyidae	Eriophyoidea	Phytophagous	focal
+Aculus	Eriophyidae	Eriophyoidea	Phytophagous	focal
+Eriophyidae	Eriophyidae	Eriophyoidea	Phytophagous	focal
+Floracarus	Eriophyidae	Eriophyoidea	Phytophagous	focal
+Fragariocoptes	Phytoptidae	Eriophyoidea	Phytophagous	focal
+Setoptus	Phytoptidae	Eriophyoidea	Phytophagous	focal
+Halotydeus	Penthaleidae	Trombidiformes: Eupodoidea	Phytophagous	focal
+Polyphagotarsonemus	Tarsonemidae	Trombidiformes: Heterostigmata	Phytophagous	focal
+Acarapis	Tarsonemidae	Trombidiformes: Heterostigmata	Parasite of honey bees	focal
+Pyemotes	Pyemotidae	Trombidiformes: Heterostigmata	Parasitoid of insects	focal
+Dinothrombium	Trombidiidae	Trombidiformes: Parasitengona	Predator (adult), parasite (larva)	other
+Leptotrombidium	Trombiculidae	Trombidiformes: Parasitengona	Parasite (larva)	other
+Osperalycus	Nematalycidae	Endeostigmata	Soil dwelling, feeding uncertain	outgroup
+Speleorchestes	Nanorchestidae	Endeostigmata	Soil dwelling	other
+Phytoseiulus persimilis	Phytoseiidae	Mesostigmata	Predator, Type I specialist	focal
+Galendromus occidentalis	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal
+Neoseiulus californicus	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal
+Neoseiulus longispinosus	Phytoseiidae	Mesostigmata	Predator, Type II selective	focal
+Neoseiulus cucumeris	Phytoseiidae	Mesostigmata	Predator, Type III generalist	focal
+Stratiolaelaps	Laelapidae	Mesostigmata	Predator, soil generalist	focal
+Pergamasus	Parasitidae	Mesostigmata	Predator, soil	focal
+Epicrius	Epicriidae	Mesostigmata	Predator, soil	focal
+Zercon	Zerconidae	Mesostigmata	Predator, soil	focal
+Varroa	Varroidae	Mesostigmata	Parasite of honey bees	focal
+Tropilaelaps	Laelapidae	Mesostigmata	Parasite of honey bees	focal
+Dermanyssus	Dermanyssidae	Mesostigmata	Parasite of birds	focal
+Dermatophagoides farinae	Pyroglyphidae	Astigmata	Detritivorous	outgroup
+Dermatophagoides pteronyssinus	Pyroglyphidae	Astigmata	Detritivorous	outgroup
+Euroglyphus	Pyroglyphidae	Astigmata	Detritivorous	other
+Sarcoptes	Sarcoptidae	Astigmata	Parasite of mammals	outgroup
+Psoroptes	Psoroptidae	Astigmata	Parasite of mammals	other
+Tyrophagus	Acaridae	Astigmata	Stored products, fungivorous	outgroup
+Rhizoglyphus	Acaridae	Astigmata	Bulb and root feeder	outgroup
+Sancassania	Acaridae	Astigmata	Saprophagous	other
+Cosmoglyphus	Acaridae	Astigmata	Saprophagous	other
+Blomia	Echimyopodidae	Astigmata	Detritivorous	other
+Lepidoglyphus	Glycyphagidae	Astigmata	Stored products	other
+Carpoglyphus	Carpoglyphidae	Astigmata	Stored products	other
+Oulenziella	Winterschmidtiidae	Astigmata	Fungivorous	other
+Amerodectes	Proctophyllodidae	Astigmata	Feather mite	other
+Archegozetes	Trhypochthoniidae	Oribatida	Detritivorous	outgroup
+Oppia	Oppiidae	Oribatida	Fungivorous	outgroup
+Ixodes scapularis	Ixodidae	Ixodida	Haematophagous	outgroup

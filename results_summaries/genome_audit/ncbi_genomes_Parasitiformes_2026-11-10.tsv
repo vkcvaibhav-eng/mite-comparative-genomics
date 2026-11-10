@@ -1,0 +1,143 @@
+Assembly Accession	Organism Name	Organism Taxonomic ID	Assembly Level	Assembly Release Date	Assembly Submitter	Assembly Stats Total Sequence Length	Assembly Stats Contig N50	Assembly Stats Scaffold N50	Assembly Stats Number of Scaffolds	Annotation Name	Annotation Provider	Annotation Release Date	Annotation Count Gene Protein-coding
+GCA_965286735.1	Alveonasus lahorensis	2583526	Contig	2025-06-06	State Key Laboratory of Pathogen and Biosecurity	1122780414	275580	275580	33809				
+GCF_052857255.1	Amblyomma americanum	6943	Chromosome	2025-09-26	USDA-Agricultural Research Service, USA	2560440542	2182087	211478100	429	GCF_052857255.1-RS_2025_11	NCBI RefSeq	2025-11-21	26184
+GCA_030143305.2	Amblyomma americanum	6943	Scaffold	2024-05-02	Arcadia Science	2543203428	114901	116009	36881	Annotation submitted by Arcadia Science	Arcadia Science	2024-05-02	34557
+GCA_052857255.1	Amblyomma americanum	6943	Chromosome	2025-09-26	USDA-Agricultural Research Service, USA	2560440542	2182087	211478100	429				
+GCA_965286655.1	Amblyomma geoemydae	1325863	Contig	2025-07-01	State Key Laboratory of Pathogen and Biosecurity	1790569056	37693	37693	175796				
+GCA_965286815.2	Amblyomma javanense	1658007	Contig	2025-07-02	State Key Laboratory of Pathogen and Biosecurity	2564298091	55404	55404	231571				
+GCF_055883805.1	Amblyomma maculatum	34609	Chromosome	2026-03-14	USDA-Agricultural Research Service, USA	2410511162	3729965	189004552	173	GCF_055883805.1-RS_2026_06	NCBI RefSeq	2026-06-04	22580
+GCA_023969395.1	Amblyomma maculatum	34609	Scaffold	2022-06-28	National Institute of Allergy and Infectious Diseases	2452025271	23832	159301	125877				
+GCA_055883805.1	Amblyomma maculatum	34609	Chromosome	2026-03-14	USDA-Agricultural Research Service, USA	2410511162	3729965	189004552	173				
+GCF_055824585.1	Amblyomma mixtum	1581418	Chromosome	2026-03-13	USDA-Agricultural Research Service, USA	2283357408	6802356	205639977	177	GCF_055824585.1-RS_2026_10	NCBI RefSeq	2026-10-14	29952
+GCA_055824585.1	Amblyomma mixtum	1581418	Chromosome	2026-03-13	USDA-Agricultural Research Service, USA	2283357408	6802356	205639977	177				
+GCA_965286825.1	Amblyomma testudinarium	375577	Contig	2025-07-08	State Key Laboratory of Pathogen and Biosecurity	2690779535	48478	48478	427553				
+GCA_965286715.1	Amblyomma varanense	1274518	Contig	2025-07-08	State Key Laboratory of Pathogen and Biosecurity	1899042325	14639	14639	415552				
+GCA_965362215.1	Amblyomma variegatum	34610	Chromosome	2026-09-09	Centre for Genomic Research, Institute of Integrative Biology, University of Liverpool, UK	8608352465	2517172	1015857784	721	Annotation submitted by Centre for Genomic Research, Institute of Integrative Biology, University of Liverpool, UK	Centre for Genomic Research, Institute of Integrative Biology, University of Liverpool, UK	2026-08-28	28665
+GCA_055769735.1	Argas persicus	34603	Contig	2026-03-10	Beijing Institute of Microbiology and Epidemiology	1386392317	4241058	4241058	1418	Annotation submitted by Beijing Institute of Microbiology and Epidemiology	Beijing Institute of Microbiology and Epidemiology	2026-03-10	21604
+GCA_055769675.1	Argas vulgaris	59638	Chromosome	2026-03-10	Beijing Institute of Microbiology and Epidemiology	1340163888	672948	160622558	580	Annotation submitted by Beijing Institute of Microbiology and Epidemiology	Beijing Institute of Microbiology and Epidemiology	2026-03-10	18246
+GCA_055769755.1	Argas vulgaris	59638	Scaffold	2026-03-10	Beijing Institute of Microbiology and Epidemiology	1339487727	686495	686495	3905	Annotation submitted by Beijing Institute of Microbiology and Epidemiology	Beijing Institute of Microbiology and Epidemiology	2026-03-10	18250
+GCF_038994185.2	Dermacentor albipictus	60249	Chromosome	2024-10-02	USDA-Agricultural Research Service, USA	2210616132	30947416	181313887	568	GCF_038994185.2-RS_2024_12	NCBI RefSeq	2024-12-17	23144
+GCA_038994185.2	Dermacentor albipictus	60249	Chromosome	2024-10-02	USDA-Agricultural Research Service, USA	2210616132	30947416	181313887	568				
+GCA_038994205.1	Dermacentor albipictus	60249	Scaffold	2024-05-01	USDA-Agricultural Research Service, USA	923382074	501702	646260	6577				
+GCF_023375885.2	Dermacentor andersoni	34620	Chromosome	2024-11-06	United States Department of Agriculture	2425198141	66127739	205869714	791	GCF_023375885.2-RS_2025_03	NCBI RefSeq	2025-03-14	20601
+GCA_023375885.3	Dermacentor andersoni	34620	Chromosome	2024-11-06	United States Department of Agriculture	2425198141	66127739	205869714	791				
+GCA_023375915.1	Dermacentor andersoni	34620	Contig	2022-05-16	United States Department of Agriculture	2116959777	1589244	1589244	8198				
+GCA_965286785.1	Dermacentor niveus	652832	Contig	2025-06-06	State Key Laboratory of Pathogen and Biosecurity	1790533131	85340	85340	127093				
+GCA_060856085.1	Dermacentor reticulatus	57047	Chromosome	2026-09-04	N. F. Gamaleya Federal Research Center of Epidemiology and Microbiology, 123098 Moscow, Russia	2358368096	39785729	222660275	11	Annotation submitted by N. F. Gamaleya Federal Research Center of Epidemiology and Microbiology, 123098 Moscow, Russia	N. F. Gamaleya Federal Research Center of Epidemiology and Microbiology, 123098 Moscow, Russia	2026-09-05	22559
+GCA_051549955.2	Dermacentor reticulatus	57047	Scaffold	2026-09-28	University of Georgia	2274188894	1444691	1447989	6368				
+GCA_051549975.2	Dermacentor reticulatus	57047	Scaffold	2026-09-28	University of Georgia	2291903991	862708	862708	7800				
+GCA_051550115.2	Dermacentor reticulatus	57047	Scaffold	2026-09-28	University of Georgia	2290025146	791151	791151	7891				
+GCA_057332255.1	Dermacentor reticulatus	57047	Chromosome	2026-05-07	LSHTM	2441517758	3101240	216627517	1245				
+GCA_059058845.1	Dermacentor reticulatus	57047	Chromosome	2026-07-07	LSHTM	2298084522	491871	185088139	21630				
+GCA_988425365.1	Dermacentor reticulatus	57047	Scaffold	2026-11-03	Rijksinstituut voor Volksgezondheid en Milieu	2290025146	791151	791151	7891				
+GCF_013339745.2	Dermacentor silvarum	543639	Chromosome	2022-06-24	TIGMIC Group	2474293395	339999	189477455	1664	NCBI Dermacentor silvarum Annotation Release 101	NCBI RefSeq	2022-07-22	23419
+GCA_013339745.2	Dermacentor silvarum	543639	Chromosome	2022-06-24	TIGMIC Group	2474293395	339999	189477455	1664	Annotation submitted by TIGMIC Group	TIGMIC Group	2022-06-24	26695
+GCA_965286685.1	Dermacentor silvarum	543639	Contig	2025-07-08	State Key Laboratory of Pathogen and Biosecurity	1892998170	53947	53947	154997				
+GCF_050947875.1	Dermacentor variabilis	34621	Chromosome	2025-06-17	USDA-Agricultural Research Service, USA	2477349138	19285520	206609419	604	GCF_050947875.1-RS_2025_07	NCBI RefSeq	2025-07-22	20394
+GCA_049308735.1	Dermacentor variabilis	34621	Contig	2025-04-05	University of Minnesota	2148554867	445025	445025	21694				
+GCA_050947875.1	Dermacentor variabilis	34621	Chromosome	2025-06-17	USDA-Agricultural Research Service, USA	2477349138	19285520	206609419	604				
+GCA_003439945.1	Dermanyssus gallinae	34641	Contig	2018-08-31	Moredun Research Institute	959010206	278630	278630	7171				
+GCA_051175695.1	Dermanyssus gallinae	34641	Contig	2025-07-02	University of Kerbala	494243845	935	935	618380				
+GCA_034693625.1	Epicrius mollis	717519	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	214043178	621	621	391743				
+GCF_000255335.2	Galendromus occidentalis	34638	Scaffold	2012-03-27	Baylor College of Medicine	151460383	201424	896831	2064	GCF_000255335.2-RS_2026_04	NCBI RefSeq	2026-04-29	11208
+GCA_000255335.2	Galendromus occidentalis	34638	Scaffold	2012-03-27	Baylor College of Medicine	151460383	201424	896831	2064				
+GCA_052819225.1	Haemaphysalis bispinosa	1340770	Scaffold	2025-09-24	KAZI NAZRUL UNIVERSITY	1916011686	2269	3601	889432				
+GCA_965286775.1	Haemaphysalis concinna	523089	Contig	2025-07-08	State Key Laboratory of Pathogen and Biosecurity	1694860931	25895	25895	248302				
+GCF_048455015.1	Haemaphysalis longicornis	44386	Scaffold	2025-03-06	Rutgers, The State University	3091334561	1249399	213415095	270	GCF_048455015.1-RS_2025_11	NCBI RefSeq	2025-11-21	25174
+GCA_008122185.1	Haemaphysalis longicornis	44386	Contig	2019-08-28	New Zealand-ARS-Massey University	7362360965	515769	515769	34208				
+GCA_013339765.2	Haemaphysalis longicornis	44386	Chromosome	2020-06-16	TIGMIC Group	2554731864	740000	204922340	3885	Annotation submitted by TIGMIC Group	TIGMIC Group	2022-01-26	25651
+GCA_022414705.1	Haemaphysalis longicornis	44386	Scaffold	2022-02-28	Hebei Normal University	3156484676	490515	1107291	6516				
+GCA_029849285.1	Haemaphysalis longicornis	44386	Contig	2023-04-20	Hokkaido university	2476737079	45887	45887	99353				
+GCA_048455015.1	Haemaphysalis longicornis	44386	Scaffold	2025-03-06	Rutgers, The State University	3091334561	1249399	213415095	270				
+GCA_055474425.1	Haemaphysalis longicornis	44386	Chromosome	2026-02-24	Beijing Institute of Microbiology and Epidemiology	7635909535	8887664	234458465	1657	Annotation submitted by Beijing Institute of Microbiology and Epidemiology	Beijing Institute of Microbiology and Epidemiology	2026-02-24	87737
+GCA_965286675.1	Haemaphysalis longicornis	44386	Contig	2025-07-02	State Key Laboratory of Pathogen and Biosecurity	2475014526	32705	32705	297907				
+GCA_965286705.1	Haemaphysalis montgomeryi	1429820	Contig	2025-07-07	State Key Laboratory of Pathogen and Biosecurity	1429617088	6332	6332	346264				
+GCA_965286765.1	Haemaphysalis qinghaiensis	297592	Contig	2025-07-08	State Key Laboratory of Pathogen and Biosecurity	1691901912	4941	4941	515528				
+GCA_965286835.1	Hyalomma anatolicum	176092	Contig	2025-07-01	State Key Laboratory of Pathogen and Biosecurity	1780744185	151797	151797	129874				
+GCA_013339685.2	Hyalomma asiaticum	266040	Chromosome	2020-06-16	TIGMIC Group	1713574309	555418	137335073	6319	Annotation submitted by TIGMIC Group	TIGMIC Group	2021-11-03	29644
+GCA_965286805.1	Hyalomma asiaticum	266040	Contig	2025-07-07	State Key Laboratory of Pathogen and Biosecurity	1535284120	71591	71591	129119				
+GCA_981163835.1	Hyalomma lusitanicum	49205	Contig	2026-02-28	Centro Nacional de Análisis Genómico	1814221550	153563811	153563811	59				
+GCA_988241805.1	Hyalomma lusitanicum	49205	Contig	2026-09-10	Swiss Institute of Bioinformatics	29504	14752	14752	2				
+GCA_910592695.1	Hyalomma marginatum	34627	Contig	2022-05-18	University of Pavia	1168604	19133	19133	179	Annotation submitted by University of Pavia	University of Pavia	2022-02-17	1220
+GCA_910592705.1	Hyalomma marginatum	34627	Contig	2022-02-17	University of Pavia	1510130	382079	382079	13				
+GCA_910592725.1	Hyalomma marginatum	34627	Contig	2022-02-17	University of Pavia	1144281	12627	12627	123				
+GCA_910592745.1	Hyalomma marginatum	34627	Contig	2022-02-17	University of Pavia	1510123	254696	254696	17				
+GCA_910592765.1	Hyalomma marginatum	34627	Contig	2022-02-17	University of Pavia	1356794	67640	67640	165				
+GCA_910592815.1	Hyalomma marginatum	34627	Contig	2022-02-17	University of Pavia	1536710	106485	106485	25				
+GCA_910592865.1	Hyalomma marginatum	34627	Contig	2022-05-18	University of Pavia	1130547	9834	9834	359	Annotation submitted by University of Pavia	University of Pavia	2022-02-17	1153
+GCA_965286695.1	Hyalomma scupense	1260755	Contig	2025-07-01	State Key Laboratory of Pathogen and Biosecurity	1654050090	61295	61295	117104				
+GCA_964199285.2	Ixodes hexagonus	34612	Chromosome	2025-07-20	Genoscope	2578961687	18769	1104011	96658	Annotation submitted by Genoscope	Genoscope	2025-07-18	19481
+GCA_964198085.1	Ixodes inopinatus	1538109	Contig	2024-11-24	Future Genomics Technologies B.V.	3845403445	780459	780459	11878				
+GCA_964198045.1	Ixodes inopinatus	1538109	Contig	2024-11-24	Future Genomics Technologies B.V.	3844430186	755632	755632	12421				
+GCA_964198095.1	Ixodes inopinatus	1538109	Contig	2024-11-23	Future Genomics Technologies B.V.	3740696580	521690	521690	14243				
+GCA_964199305.2	Ixodes pacificus	29930	Chromosome	2025-07-20	Genoscope	2234492073	15172	73923255	93942	Annotation submitted by Genoscope	Genoscope	2025-07-18	29196
+GCA_013358835.2	Ixodes persulcatus	34615	Scaffold	2020-06-23	TIGMIC Group	1899962506	532020	532020	11596	Annotation submitted by TIGMIC Group	TIGMIC Group	2020-12-22	28396
+GCA_964199295.2	Ixodes persulcatus	34615	Chromosome	2025-07-20	Genoscope	2444742770	17248	97992232	88674	Annotation submitted by Genoscope	Genoscope	2025-07-18	24962
+GCA_965286795.1	Ixodes persulcatus	34615	Scaffold	2025-07-01	State Key Laboratory of Pathogen and Biosecurity	1428156858	83321	83572	93770				
+GCA_988425285.1	Ixodes ricinus	34613	Contig	2026-11-03	Rijksinstituut voor Volksgezondheid en Milieu	2307546347	38355692	38355692	188				
+GCA_000973045.2	Ixodes ricinus	34613	Scaffold	2016-08-24	Luxembourg Institute of Health	514506549	3059	3065	204516				
+GCA_037355805.1	Ixodes ricinus	34613	Scaffold	2024-03-19	Faculty of Science, University of South Bohemia	2093454806	65892	66304	70366				
+GCA_043645445.1	Ixodes ricinus	34613	Scaffold	2024-10-23	The University of Georgia	2140769745	274727	274727	25160				
+GCA_043698115.1	Ixodes ricinus	34613	Scaffold	2024-10-23	The University of Georgia	2146276952	244475	244759	26100				
+GCA_964198055.1	Ixodes ricinus	34613	Contig	2024-11-24	Future Genomics Technologies B.V.	3801098418	773208	773208	11435				
+GCA_964198065.1	Ixodes ricinus	34613	Contig	2024-11-24	Future Genomics Technologies B.V.	3879045750	1158581	1158581	9474				
+GCA_964198075.1	Ixodes ricinus	34613	Contig	2024-11-24	Future Genomics Technologies B.V.	3804165417	812456	812456	11542				
+GCA_964199275.3	Ixodes ricinus	34613	Chromosome	2025-11-19	Genoscope	2151890035	16768	168173448	17413	Annotation submitted by Genoscope	Genoscope	2025-07-18	22677
+GCA_964417485.1	Ixodes ricinus	34613	Contig	2025-01-18	Wageningen University & Reseach	1819390	1813613	1813613	2				
+GCF_016920785.2	Ixodes scapularis	6945	Scaffold	2021-06-23	University of Maryland	2226883318	1422263	132052651	648	NCBI Ixodes scapularis Annotation Release 103	NCBI RefSeq	2021-07-01	26659
+GCF_000208615.1	Ixodes scapularis	6945	Scaffold	2008-04-18	Ixodes scapularis Genome Project	1765382190	2942	76228	369492	Annotation submitted by NCBI RefSeq	NCBI RefSeq	2011-04-27	20467
+GCF_002892825.2	Ixodes scapularis	6945	Contig	2018-09-28	J. Craig Venter Institute	2081329876	835681	835681	6476	NCBI Ixodes scapularis Annotation Release 100	NCBI RefSeq	2019-07-11	24501
+GCA_000208615.1	Ixodes scapularis	6945	Scaffold	2008-04-18	Ixodes scapularis Genome Project	1765382190	2942	76228	369492	Annotation submitted by Ixodes scapularis Genome Project	Ixodes scapularis Genome Project	2022-11-17	20486
+GCA_002892825.2	Ixodes scapularis	6945	Contig	2018-09-28	J. Craig Venter Institute	2081329876	835681	835681	6476				
+GCA_016920785.2	Ixodes scapularis	6945	Scaffold	2021-06-23	University of Maryland	2226883318	1422263	132052651	648				
+GCA_031841145.2	Ixodes scapularis	6945	Chromosome	2026-01-15	University of Nevada,Reno	2510528476	60404	208134562	584	Annotation submitted by University of Nevada,Reno	University of Nevada,Reno	2026-01-15	33219
+GCA_028455905.1	Neoseiulus californicus	84382	Contig	2023-02-03	Guizhou University	188379862	16958633	16958633	23				
+GCA_028659405.1	Neoseiulus californicus	84382	Contig	2023-02-16	Vavilov Institute of General Genetics RAS	198942948	4731728	4731728	419				
+GCA_031001865.1	Neoseiulus californicus	84382	Contig	2023-08-30	Vavilov Institute of General Genetics RAS	175619166	151666	151666	2574				
+GCA_021527715.1	Neoseiulus cucumeris	193551	Scaffold	2022-01-19	Institute of Plant Protection, Fujian Academy of Agricultural Sciences	173056137	485945	1572811	1178				
+GCA_052756005.1	Neoseiulus longispinosus	1853072	Chromosome	2025-09-22	Chinese Academy of Tropical Agricultural Sciences	199210599	2350309	54559802	73				
+GCA_049901595.1	Ornithodoros gurneyi	253472	Contig	2025-04-24	CSIRO Applied Genomics Initiative	1280364250	63315	63315	43710				
+GCA_029532675.1	Ornithodoros moubata	6938	Scaffold	2023-03-31	University of South Bohemia	539271247	858	862	925924				
+GCA_905119505.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	545	296	296	2				
+GCA_905119535.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	7064	679	679	20				
+GCA_905119575.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	348213	16841	16841	34				
+GCA_905119585.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	520	271	271	2				
+GCA_905119595.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	8582	282	282	36				
+GCA_905119615.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	1196	307	307	4				
+GCA_905119635.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	38906	7383	7383	19				
+GCA_905119645.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	548	336	336	2				
+GCA_905119655.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	1600	286	286	6				
+GCA_905119715.1	Ornithodoros moubata	6938	Contig	2020-11-25	Friedrich-Loeffler-Institute	5977	273	273	26				
+GCA_905119495.1	Ornithodoros porcinus	34594	Contig	2020-11-25	Friedrich-Loeffler-Institute	44442	6757	6757	9				
+GCA_905119675.1	Ornithodoros porcinus	34594	Contig	2020-11-25	Friedrich-Loeffler-Institute	33317	3380	3380	15				
+GCA_905119735.1	Ornithodoros porcinus	34594	Contig	2020-11-25	Friedrich-Loeffler-Institute	31661	4758	4758	11				
+GCF_037126465.1	Ornithodoros turicata	34597	Chromosome	2024-03-13	United States Department of Agriculture	1071349989	2677430	84440111	378	GCF_037126465.1-RS_2024_04	NCBI RefSeq	2024-04-22	22416
+GCA_037126465.1	Ornithodoros turicata	34597	Chromosome	2024-03-13	United States Department of Agriculture	1071349989	2677430	84440111	378				
+GCA_034693645.1	Pergamasus crassipes	2234139	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	450509865	1494	1494	482887				
+GCA_047456425.1	Phytoseiulus persimilis	44414	Chromosome	2025-02-05	Chinese Academy of Agricultural Sciences	214233232	57945209	57945209	159				
+GCA_037576195.1	Phytoseiulus persimilis	44414	Chromosome	2024-03-27	Chinese Academy of Agricultural Sciences, Beijing, China	181015949	6580720	52007624	134				
+GCA_013436015.1	Rhipicephalus annulatus	34611	Contig	2020-07-21	USDA-Agricultural Research Service, USA	2762431811	436999	436999	16339				
+GCA_030522465.2	Rhipicephalus appendiculatus	34631	Contig	2024-08-12	Clinglobal	2366026835	679575	679575	33490	Annotation submitted by Clinglobal	Clinglobal	2024-08-12	52331
+GCF_043290135.1	Rhipicephalus microplus	6941	Chromosome	2024-10-17	USDA	3265175345	19958966	243251516	1202	GCF_043290135.1-RS_2025_08	NCBI RefSeq	2025-08-01	25490
+GCF_013339725.1	Rhipicephalus microplus	6941	Chromosome	2020-06-16	TIGMIC Group	2529915399	1791079	183350851	7047	NCBI Rhipicephalus microplus Annotation Release 100	NCBI RefSeq	2020-11-05	18598
+GCA_000181235.2	Rhipicephalus microplus	6941	Scaffold	2012-07-08	USDA-ARS	144692238	827	827	175208				
+GCA_002176555.1	Rhipicephalus microplus	6941	Scaffold	2017-06-07	Centre for Comparative Genomics	2008371944	15568	60268	195084				
+GCA_013339725.1	Rhipicephalus microplus	6941	Chromosome	2020-06-16	TIGMIC Group	2529915399	1791079	183350851	7047	Annotation submitted by TIGMIC Group	TIGMIC Group	2021-12-02	29866
+GCA_013435995.1	Rhipicephalus microplus	6941	Scaffold	2020-07-21	Texas A&M University	3631904383	64461	1184201	29076				
+GCA_030522445.2	Rhipicephalus microplus	6941	Contig	2024-11-25	Clinglobal	2670281449	1889595	1889595	11349	Annotation submitted by Clinglobal	Clinglobal	2024-11-25	59834
+GCA_043290135.1	Rhipicephalus microplus	6941	Chromosome	2024-10-17	USDA	3265175345	19958966	243251516	1202				
+GCA_965286725.1	Rhipicephalus microplus	6941	Contig	2025-07-08	State Key Laboratory of Pathogen and Biosecurity	2208212711	59699	59699	157533				
+GCA_965286645.1	Rhipicephalus pumilio	127007	Contig	2025-06-06	State Key Laboratory of Pathogen and Biosecurity	1985245678	49739	49739	207201				
+GCF_013339695.2	Rhipicephalus sanguineus	34632	Chromosome	2022-06-24	TIGMIC Group	2365502231	541094	208696187	2327	NCBI Rhipicephalus sanguineus Annotation Release 101	NCBI RefSeq	2022-07-08	22510
+GCA_013339695.2	Rhipicephalus sanguineus	34632	Chromosome	2022-06-24	TIGMIC Group	2365502231	541094	208696187	2327	Annotation submitted by TIGMIC Group	TIGMIC Group	2022-06-24	25712
+GCA_965286755.1	Rhipicephalus sanguineus	34632	Contig	2025-07-02	State Key Laboratory of Pathogen and Biosecurity	2817607597	143190	143190	113521				
+GCA_965286665.1	Rhipicephalus turanicus	34633	Contig	2025-07-02	State Key Laboratory of Pathogen and Biosecurity	1960921755	74586	74586	175912				
+GCA_034693525.1	Stratiolaelaps miles	2905851	Contig	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	415502403	13075	13075	94826				
+GCA_019614645.1	Stratiolaelaps scimitus	224787	Contig	2021-08-16	Shandong Agricultural University	426498324	7661860	7661860	158				
+GCA_002081605.1	Tropilaelaps mercedesae	418985	Scaffold	2017-04-06	Xi'an Jiaotong-Liverpool University	352534912	12742	28859	33764	Annotation submitted by Xi'an Jiaotong-Liverpool University	Xi'an Jiaotong-Liverpool University	2017-04-06	14303
+GCF_002443255.2	Varroa destructor	109461	Scaffold	2017-09-27	Ecology and Evolution Lab, Mikheyev Unit, Okinawa Institute of Science and Technology	368796621	201886	58536683	1354	GCF_002443255.2-RS_2026_08	NCBI RefSeq	2026-08-05	10783
+GCA_000181155.2	Varroa destructor	109461	Scaffold	2017-05-09	Varroa Genome Sequencing Consortium	331927360	15568	128078	20448				
+GCA_002443255.1	Varroa destructor	109461	Scaffold	2017-09-27	Ecology and Evolution Lab, Mikheyev Unit, Okinawa Institute of Science and Technology	368925819	201886	58536683	1425				
+GCF_002532875.2	Varroa jacobsoni	62625	Scaffold	2017-10-10	Okinawa Institute of Science and Technology	364328871	96291	234078	4233	GCF_002532875.2-RS_2026_08	NCBI RefSeq	2026-08-05	10683
+GCA_002532875.1	Varroa jacobsoni	62625	Scaffold	2017-10-10	Okinawa Institute of Science and Technology	365585945	96009	233810	4881				
+GCA_034693825.1	Zercon vagabundus	2905853	Scaffold	2023-12-27	LOEWE Centre for Translational Biodiversity Genomics	468369650	1238	1238	535367				

@@ -41,7 +41,7 @@ gs://BUCKET_NAME/discovery/     one folder per module and run
 
 ```bash
 gcloud compute instances create mite-genomics-vm \
-    --zone=asia-south1-a \
+    --zone=asia-south1-c \
     --machine-type=e2-standard-8 \
     --boot-disk-size=200GB \
     --boot-disk-type=pd-balanced \
@@ -54,9 +54,9 @@ gcloud compute instances create mite-genomics-vm \
 
 ```bash
 # start, connect, stop
-gcloud compute instances start mite-genomics-vm --zone=asia-south1-a
-gcloud compute ssh mite-genomics-vm --zone=asia-south1-a
-gcloud compute instances stop mite-genomics-vm --zone=asia-south1-a
+gcloud compute instances start mite-genomics-vm --zone=asia-south1-c
+gcloud compute ssh mite-genomics-vm --zone=asia-south1-c
+gcloud compute instances stop mite-genomics-vm --zone=asia-south1-c
 ```
 
 The VM is billed for every hour it is running, so it is stopped at the end of each
@@ -93,5 +93,5 @@ The machine type can be changed while the VM is stopped:
 
 ```bash
 gcloud compute instances set-machine-type mite-genomics-vm \
-    --zone=asia-south1-a --machine-type=e2-standard-16
+    --zone=asia-south1-c --machine-type=e2-standard-16
 ```

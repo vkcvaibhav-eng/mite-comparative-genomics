@@ -28,8 +28,14 @@ differ between feeding types is set in advance. All orthogroups are screened.
 Recorded for each assembly: accession, assembly level, total length, contig and
 scaffold N50, number of scaffolds, BUSCO scores, annotation source and protein count.
 
+One assembly per species is taken from the NCBI listing in this order: a RefSeq
+assembly with NCBI annotation; otherwise a GenBank assembly with submitter annotation
+and scaffold N50 of at least 100 kb; otherwise the assembly with the highest scaffold
+N50. Assemblies with scaffold N50 below 20 kb are listed but not downloaded.
+
 BUSCO is run with the arachnida_odb10 lineage in genome mode on every assembly and in
-protein mode on every annotated proteome.
+protein mode on every annotated proteome. Outgroup assemblies larger than 1 Gb are
+checked in protein mode only.
 
 | Use | Criterion |
 |---|---|
