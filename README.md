@@ -76,3 +76,4 @@ Google Cloud setup is described in `docs/google_cloud_setup.md`.
 |---|---|---|
 | 2026-11-10 | 0 | Repository created; protocol in draft |
 | 2026-11-10 | 1 | 38 genomes downloaded; BUSCO complete; inclusion decisions and annotation plan open |
+| 2026-11-13 | 2 | Annotation pilot on three species passed; compute paused pending Google Cloud research credits decision |

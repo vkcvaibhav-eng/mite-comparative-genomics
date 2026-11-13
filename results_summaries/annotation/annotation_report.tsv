@@ -1,0 +1,4 @@
+Accession	Species	BUSCO genome complete (%)	BRAKER BUSCO complete (%)	BRAKER BUSCO duplicated (%)	BRAKER BUSCO fragmented (%)	NCBI BUSCO protein complete (%)	BRAKER genes	NCBI protein-coding genes	Proteins dropped (short or internal stop)	Masking (h)	Gene prediction (h)	Verdict
+GCA_057930795.1	Tetranychus evansi	94.8	94.7	6.2	0.6	93.6	13435	14128	6	10.26	8.74	Pass
+GCF_000255335.2	Galendromus occidentalis	99.5	98.5	3.6	0.3	98.3	14864	11208	11	12.70	11.36	Pass
+GCF_039701765.1	Tetranychus urticae	95.1	95.0	6.8	0.5	95.1	15170	11657	11	10.17	10.12	Pass
